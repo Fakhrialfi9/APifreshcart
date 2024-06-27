@@ -20,12 +20,7 @@
       },
       "badges": ["New Arrival"],
       "promo": true,
-      "images": [
-        "./public/assets/image/popularproduct/product1.jpg",
-        "./public/assets/image/popularproduct/product1.jpg",
-        "./public/assets/image/popularproduct/product1.jpg",
-        "./public/assets/image/popularproduct/product1.jpg"
-      ]
+      "images": ["product1.jpg", "product1.jpg", "product1.jpg", "product1.jpg"]
     },
 
     {
@@ -48,12 +43,7 @@
       },
       "badges": ["Bestseller", "Sale"],
       "promo": true,
-      "images": [
-        "./public/assets/image/popularproduct/product2.jpg",
-        "./public/assets/image/popularproduct/product2.jpg",
-        "./public/assets/image/popularproduct/product2.jpg",
-        "./public/assets/image/popularproduct/product2.jpg"
-      ]
+      "images": ["product2.jpg", "product2.jpg", "product2.jpg", "product2.jpg"]
     },
     {
       "id": 3,
@@ -75,12 +65,7 @@
       },
       "badges": ["Organic"],
       "promo": true,
-      "images": [
-        "./public/assets/image/popularproduct/product3.jpg",
-        "./public/assets/image/popularproduct/product3.jpg",
-        "./public/assets/image/popularproduct/product3.jpg",
-        "./public/assets/image/popularproduct/product3.jpg"
-      ]
+      "images": ["product3.jpg", "product3.jpg", "product3.jpg", "product3.jpg"]
     },
     {
       "id": 4,
@@ -102,12 +87,7 @@
       },
       "badges": ["Fresh Arrival"],
       "promo": true,
-      "images": [
-        "./public/assets/image/popularproduct/product4.jpg",
-        "./public/assets/image/popularproduct/product4.jpg",
-        "./public/assets/image/popularproduct/product4.jpg",
-        "./public/assets/image/popularproduct/product4.jpg"
-      ]
+      "images": ["product4.jpg", "product4.jpg", "product4.jpg", "product4.jpg"]
     },
     {
       "id": 5,
@@ -129,12 +109,7 @@
       },
       "badges": ["Popular"],
       "promo": true,
-      "images": [
-        "./public/assets/image/popularproduct/product5.jpg",
-        "./public/assets/image/popularproduct/product5.jpg",
-        "./public/assets/image/popularproduct/product5.jpg",
-        "./public/assets/image/popularproduct/product5.jpg"
-      ]
+      "images": ["product5.jpg", "product5.jpg", "product5.jpg", "product5.jpg"]
     },
     {
       "id": 6,
@@ -156,12 +131,7 @@
       },
       "badges": ["Gourmet"],
       "promo": true,
-      "images": [
-        "./public/assets/image/popularproduct/product6.jpg",
-        "./public/assets/image/popularproduct/product6.jpg",
-        "./public/assets/image/popularproduct/product6.jpg",
-        "./public/assets/image/popularproduct/product6.jpg"
-      ]
+      "images": ["product6.jpg", "product6.jpg", "product6.jpg", "product6.jpg"]
     },
     {
       "id": 7,
@@ -183,12 +153,7 @@
       },
       "badges": ["Best Seller"],
       "promo": true,
-      "images": [
-        "./public/assets/image/popularproduct/product7.jpg",
-        "./public/assets/image/popularproduct/product7.jpg",
-        "./public/assets/image/popularproduct/product7.jpg",
-        "./public/assets/image/popularproduct/product7.jpg"
-      ]
+      "images": ["product7.jpg", "product7.jpg", "product7.jpg", "product7.jpg"]
     },
     {
       "id": 8,
@@ -210,12 +175,7 @@
       },
       "badges": ["Exotic"],
       "promo": true,
-      "images": [
-        "./public/assets/image/popularproduct/product8.jpg",
-        "./public/assets/image/popularproduct/product8.jpg",
-        "./public/assets/image/popularproduct/product8.jpg",
-        "./public/assets/image/popularproduct/product8.jpg"
-      ]
+      "images": ["product8.jpg", "product8.jpg", "product8.jpg", "product8.jpg"]
     },
     {
       "id": 9,
@@ -237,12 +197,7 @@
       },
       "badges": ["Artisan"],
       "promo": true,
-      "images": [
-        "./public/assets/image/popularproduct/product9.jpg",
-        "./public/assets/image/popularproduct/product9.jpg",
-        "./public/assets/image/popularproduct/product9.jpg",
-        "./public/assets/image/popularproduct/product9.jpg"
-      ]
+      "images": ["product9.jpg", "product9.jpg", "product9.jpg", "product9.jpg"]
     },
     {
       "id": 10,
@@ -264,12 +219,7 @@
       },
       "badges": ["Popular"],
       "promo": true,
-      "images": [
-        "./public/assets/image/popularproduct/product10.jpg",
-        "./public/assets/image/popularproduct/product10.jpg",
-        "./public/assets/image/popularproduct/product10.jpg",
-        "./public/assets/image/popularproduct/product10.jpg"
-      ]
+      "images": ["product10.jpg", "product10.jpg", "product10.jpg", "product10.jpg"]
     }
   ]
 }
