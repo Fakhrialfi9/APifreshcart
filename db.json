@@ -21,10 +21,10 @@
       "badges": ["New Arrival"],
       "promo": true,
       "images": [
-        "./public/assets/image/popularproduct/product1.jpg",
-        "./public/assets/image/popularproduct/product1.jpg",
-        "./public/assets/image/popularproduct/product1.jpg",
-        "./public/assets/image/popularproduct/product1.jpg"
+        "/freshcart/assets/image/popularproduct/product1.jpg",
+        "/freshcart/assets/image/popularproduct/product1.jpg",
+        "/freshcart/assets/image/popularproduct/product1.jpg",
+        "/freshcart/assets/image/popularproduct/product1.jpg"
       ]
     },
 
@@ -49,10 +49,10 @@
       "badges": ["Bestseller", "Sale"],
       "promo": true,
       "images": [
-        "./public/assets/image/popularproduct/product2.jpg",
-        "./public/assets/image/popularproduct/product2.jpg",
-        "./public/assets/image/popularproduct/product2.jpg",
-        "./public/assets/image/popularproduct/product2.jpg"
+        "/freshcart/assets/image/popularproduct/product2.jpg",
+        "/freshcart/assets/image/popularproduct/product2.jpg",
+        "/freshcart/assets/image/popularproduct/product2.jpg",
+        "/freshcart/assets/image/popularproduct/product2.jpg"
       ]
     },
     {
@@ -76,10 +76,10 @@
       "badges": ["Organic"],
       "promo": true,
       "images": [
-        "./public/assets/image/popularproduct/product3.jpg",
-        "./public/assets/image/popularproduct/product3.jpg",
-        "./public/assets/image/popularproduct/product3.jpg",
-        "./public/assets/image/popularproduct/product3.jpg"
+        "/freshcart/assets/image/popularproduct/product3.jpg",
+        "/freshcart/assets/image/popularproduct/product3.jpg",
+        "/freshcart/assets/image/popularproduct/product3.jpg",
+        "/freshcart/assets/image/popularproduct/product3.jpg"
       ]
     },
     {
@@ -103,10 +103,10 @@
       "badges": ["Fresh Arrival"],
       "promo": true,
       "images": [
-        "./public/assets/image/popularproduct/product4.jpg",
-        "./public/assets/image/popularproduct/product4.jpg",
-        "./public/assets/image/popularproduct/product4.jpg",
-        "./public/assets/image/popularproduct/product4.jpg"
+        "/freshcart/assets/image/popularproduct/product4.jpg",
+        "/freshcart/assets/image/popularproduct/product4.jpg",
+        "/freshcart/assets/image/popularproduct/product4.jpg",
+        "/freshcart/assets/image/popularproduct/product4.jpg"
       ]
     },
     {
@@ -130,10 +130,10 @@
       "badges": ["Popular"],
       "promo": true,
       "images": [
-        "./public/assets/image/popularproduct/product5.jpg",
-        "./public/assets/image/popularproduct/product5.jpg",
-        "./public/assets/image/popularproduct/product5.jpg",
-        "./public/assets/image/popularproduct/product5.jpg"
+        "/freshcart/assets/image/popularproduct/product5.jpg",
+        "/freshcart/assets/image/popularproduct/product5.jpg",
+        "/freshcart/assets/image/popularproduct/product5.jpg",
+        "/freshcart/assets/image/popularproduct/product5.jpg"
       ]
     },
     {
@@ -157,10 +157,10 @@
       "badges": ["Gourmet"],
       "promo": true,
       "images": [
-        "./public/assets/image/popularproduct/product6.jpg",
-        "./public/assets/image/popularproduct/product6.jpg",
-        "./public/assets/image/popularproduct/product6.jpg",
-        "./public/assets/image/popularproduct/product6.jpg"
+        "/freshcart/assets/image/popularproduct/product6.jpg",
+        "/freshcart/assets/image/popularproduct/product6.jpg",
+        "/freshcart/assets/image/popularproduct/product6.jpg",
+        "/freshcart/assets/image/popularproduct/product6.jpg"
       ]
     },
     {
@@ -184,10 +184,10 @@
       "badges": ["Best Seller"],
       "promo": true,
       "images": [
-        "./public/assets/image/popularproduct/product7.jpg",
-        "./public/assets/image/popularproduct/product7.jpg",
-        "./public/assets/image/popularproduct/product7.jpg",
-        "./public/assets/image/popularproduct/product7.jpg"
+        "/freshcart/assets/image/popularproduct/product7.jpg",
+        "/freshcart/assets/image/popularproduct/product7.jpg",
+        "/freshcart/assets/image/popularproduct/product7.jpg",
+        "/freshcart/assets/image/popularproduct/product7.jpg"
       ]
     },
     {
@@ -211,10 +211,10 @@
       "badges": ["Exotic"],
       "promo": true,
       "images": [
-        "./public/assets/image/popularproduct/product8.jpg",
-        "./public/assets/image/popularproduct/product8.jpg",
-        "./public/assets/image/popularproduct/product8.jpg",
-        "./public/assets/image/popularproduct/product8.jpg"
+        "/freshcart/assets/image/popularproduct/product8.jpg",
+        "/freshcart/assets/image/popularproduct/product8.jpg",
+        "/freshcart/assets/image/popularproduct/product8.jpg",
+        "/freshcart/assets/image/popularproduct/product8.jpg"
       ]
     },
     {
@@ -238,10 +238,10 @@
       "badges": ["Artisan"],
       "promo": true,
       "images": [
-        "./public/assets/image/popularproduct/product9.jpg",
-        "./public/assets/image/popularproduct/product9.jpg",
-        "./public/assets/image/popularproduct/product9.jpg",
-        "./public/assets/image/popularproduct/product9.jpg"
+        "/freshcart/assets/image/popularproduct/product9.jpg",
+        "/freshcart/assets/image/popularproduct/product9.jpg",
+        "/freshcart/assets/image/popularproduct/product9.jpg",
+        "/freshcart/assets/image/popularproduct/product9.jpg"
       ]
     },
     {
@@ -265,10 +265,10 @@
       "badges": ["Popular"],
       "promo": true,
       "images": [
-        "./public/assets/image/popularproduct/product10.jpg",
-        "./public/assets/image/popularproduct/product10.jpg",
-        "./public/assets/image/popularproduct/product10.jpg",
-        "./public/assets/image/popularproduct/product10.jpg"
+        "/freshcart/assets/image/popularproduct/product10.jpg",
+        "/freshcart/assets/image/popularproduct/product10.jpg",
+        "/freshcart/assets/image/popularproduct/product10.jpg",
+        "/freshcart/assets/image/popularproduct/product10.jpg"
       ]
     }
   ]
