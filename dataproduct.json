@@ -1,0 +1,961 @@
+{
+  "products": [
+    {
+      "id": 392032,
+      "badgesDiscountProduct": ["Sale"],
+      "imagesProduct": [
+        "https://i.pinimg.com/564x/14/fb/f5/14fbf589a2f366f1c3c38a217bf04876.jpg",
+        "https://i.pinimg.com/564x/e5/08/81/e50881258b53fdb24b1c63cc960168b1.jpg",
+        "https://i.pinimg.com/564x/36/5d/89/365d894c988ebfb5484c220ee71abee9.jpg"
+      ],
+      "nameCategory": "Rice",
+      "nameProduct": "Organic White Rice",
+      "priceProduct": 30000,
+      "codeProduct": "BRS001",
+      "availabilityProduct": true,
+      "typeProduct": "Rice",
+      "promoProduct": false,
+      "shippingProduct": "Free shipping on orders over 150,000",
+
+      "promoGlobalProduct": [
+        {
+          "discountPrice": 27000,
+          "percentageDiscount": 10
+        }
+      ],
+
+      "ProductDetails": {
+        "BenefitProduct": "Rich in fiber and complex carbohydrates",
+        "descriptionBenefitProduct": "Organic white rice contains fiber and complex carbohydrates for sustained energy.",
+        "StorageTips": "Store in a cool, dry place",
+        "descriptionStorageTips": "Store rice in an airtight container in a cool, dry place to maintain its freshness.",
+        "Unit": "Unit",
+        "descriptionUnit": "2 Units",
+        "Seller": "Seller",
+        "descriptionSeller": "Organic Farm Supplies",
+        "Disclaimer": "Allergy warning",
+        "descriptionDisclaimer": "This product may contain traces of nuts."
+      },
+
+      "InformationProduct": {
+        "Weight": "1 kg",
+        "IngredientType": "Organic",
+        "Brand": "Organic Harvest",
+        "ItemPackageQuantity": "2 kg",
+        "Form": "Grains",
+        "Manufacturer": "Organic Farm Supplies",
+        "NetQuantity": "2 kg",
+        "ProductDimensions": "12 x 12 x 20 cm",
+        "ASIN": "B09D3ABC4E",
+        "BestSellersRank": "#1 in Rice",
+        "DateFirstAvailable": "March 1, 2023",
+        "ItemWeight": "1 kg",
+        "GenericName": "Rice",
+        "expiredDate": "September 1, 2024"
+      },
+
+      "ratingsProduct": [
+        {
+          "countRatingProduct": 35,
+          "globalCountRatingProduct": 7500,
+          "ratingBar": 1,
+          "percentageBar": 15
+        },
+        {
+          "countRatingProduct": 45,
+          "globalCountRatingProduct": 7500,
+          "ratingBar": 2,
+          "percentageBar": 30
+        },
+        {
+          "countRatingProduct": 20,
+          "globalCountRatingProduct": 7500,
+          "ratingBar": 3,
+          "percentageBar": 10
+        },
+        {
+          "countRatingProduct": 15,
+          "globalCountRatingProduct": 7500,
+          "ratingBar": 4,
+          "percentageBar": 20
+        },
+        {
+          "countRatingProduct": 5,
+          "globalCountRatingProduct": 7500,
+          "ratingBar": 5,
+          "percentageBar": 25
+        }
+      ],
+
+      "reviewProduct": [
+        {
+          "nameUserReview": "Jennifer Smith",
+          "dateUserReview": "April 15, 2023",
+          "descriptionUserReview": "The organic white rice is of excellent quality and cooks perfectly!",
+          "reviewsProduct": "Highly recommend this organic white rice!",
+          "passedPurchase": "Verified Purchase",
+          "headlineReview": "High Quality Rice",
+          "descriptionReview": "The white rice is of excellent quality and cooks perfectly. Packaging was good, ensuring freshness.",
+          "imageProductReview": ["/public/assets/image/Japota1.jpg"]
+        },
+        {
+          "nameUserReview": "William Johnson",
+          "dateUserReview": "May 1, 2023",
+          "descriptionUserReview": "The organic white rice is flavorful and nutritious, perfect for meals!",
+          "reviewsProduct": "Love this organic white rice!",
+          "passedPurchase": "Verified Purchase",
+          "headlineReview": "Flavorful and Nutritious",
+          "descriptionReview": "The white rice is flavorful and nutritious, perfect for meals. Packaging was secure, ensuring quality.",
+          "imageProductReview": ["/public/assets/image/Japota2.jpg"]
+        },
+        {
+          "nameUserReview": "Emma Wilson",
+          "dateUserReview": "June 10, 2023",
+          "descriptionUserReview": "The organic white rice is my go-to choice for its taste and quality!",
+          "reviewsProduct": "Highly satisfied with this organic white rice!",
+          "passedPurchase": "Verified Purchase",
+          "headlineReview": "Favorite Rice Choice",
+          "descriptionReview": "The white rice is my go-to choice for its taste and quality. Packaging ensures it arrives fresh.",
+          "imageProductReview": ["/public/assets/image/Japota1.jpg"]
+        },
+        {
+          "nameUserReview": "Michael Clark",
+          "dateUserReview": "July 5, 2023",
+          "descriptionUserReview": "The organic white rice was delivered promptly and in perfect condition!",
+          "reviewsProduct": "Very satisfied with this organic white rice!",
+          "passedPurchase": "Verified Purchase",
+          "headlineReview": "Excellent Delivery",
+          "descriptionReview": "The white rice arrived promptly and in perfect condition. Packaging was well done.",
+          "imageProductReview": ["/public/assets/image/Japota3.jpg"]
+        },
+        {
+          "nameUserReview": "Olivia Davis",
+          "dateUserReview": "August 20, 2023",
+          "descriptionUserReview": "The organic white rice is delicious and versatile, great for various dishes!",
+          "reviewsProduct": "Love using this organic white rice!",
+          "passedPurchase": "Verified Purchase",
+          "headlineReview": "Versatile Rice",
+          "descriptionReview": "The white rice is delicious and versatile, great for various dishes. Packaging ensures freshness.",
+          "imageProductReview": ["/public/assets/image/Japota2.jpg"]
+        }
+      ]
+    },
+
+    {
+      "id": 987654,
+      "badgesDiscountProduct": ["Presale"],
+      "imagesProduct": ["/public/assets/image/neocafe1.jpg", "/public/assets/image/neocafe2.jpg", "/public/assets/image/neocafe2.jpg"],
+      "nameCategory": "Vegetables",
+      "nameProduct": "Organic Cauliflower",
+      "priceProduct": 18000,
+      "codeProduct": "OCF001",
+      "availabilityProduct": true,
+      "typeProduct": "Fresh Vegetables",
+      "promoProduct": false,
+      "shippingProduct": "Free shipping on orders over 100,000",
+
+      "promoGlobalProduct": [],
+
+      "ProductDetails": {
+        "BenefitProduct": "Rich in fiber and vitamins",
+        "descriptionBenefitProduct": "Organic cauliflower is rich in fiber and essential vitamins for a healthy diet.",
+        "StorageTips": "Store in a cool, dry place",
+        "descriptionStorageTips": "Keep cauliflower in the refrigerator to maintain freshness and crunchiness.",
+        "Unit": "Unit",
+        "descriptionUnit": "1 Head",
+        "Seller": "Seller",
+        "descriptionSeller": "GreenFields Farm",
+        "Disclaimer": "Allergy warning",
+        "descriptionDisclaimer": "This product may have been processed in a facility that also processes nuts."
+      },
+
+      "InformationProduct": {
+        "Weight": "500 grams",
+        "IngredientType": "Organic",
+        "Brand": "GreenFields Organics",
+        "ItemPackageQuantity": "1 kg",
+        "Form": "Head",
+        "Manufacturer": "GreenFields Farm",
+        "NetQuantity": "1 kg",
+        "ProductDimensions": "10 x 10 x 15 cm",
+        "ASIN": "B08C2ABC3D",
+        "BestSellersRank": "#7 in Vegetables",
+        "DateFirstAvailable": "February 1, 2023",
+        "ItemWeight": "500 grams",
+        "GenericName": "Cauliflower",
+        "expiredDate": "June 1, 2024"
+      },
+
+      "ratingsProduct": [
+        {
+          "countRatingProduct": 40,
+          "globalCountRatingProduct": 8500,
+          "ratingBar": 1,
+          "percentageBar": 10
+        },
+        {
+          "countRatingProduct": 60,
+          "globalCountRatingProduct": 8500,
+          "ratingBar": 2,
+          "percentageBar": 30
+        },
+        {
+          "countRatingProduct": 25,
+          "globalCountRatingProduct": 8500,
+          "ratingBar": 3,
+          "percentageBar": 15
+        },
+        {
+          "countRatingProduct": 15,
+          "globalCountRatingProduct": 8500,
+          "ratingBar": 4,
+          "percentageBar": 25
+        },
+        {
+          "countRatingProduct": 10,
+          "globalCountRatingProduct": 8500,
+          "ratingBar": 5,
+          "percentageBar": 20
+        }
+      ],
+
+      "reviewProduct": [
+        {
+          "nameUserReview": "Sophie Johnson",
+          "dateUserReview": "May 25, 2023",
+          "descriptionUserReview": "The organic cauliflower is fresh and perfect for salads!",
+          "reviewsProduct": "I really enjoy this organic cauliflower!",
+          "passedPurchase": "Verified Purchase",
+          "headlineReview": "Great Quality",
+          "descriptionReview": "The cauliflower was delivered fresh and crunchy. Packaging was good, ensuring the vegetables were protected.",
+          "imageProductReview": ["/public/assets/image/neocafe1.jpg"]
+        },
+        {
+          "nameUserReview": "Michael Brown",
+          "dateUserReview": "June 10, 2023",
+          "descriptionUserReview": "The organic cauliflower exceeded my expectations, very flavorful!",
+          "reviewsProduct": "Delighted with this purchase!",
+          "passedPurchase": "Verified Purchase",
+          "headlineReview": "Flavorful and Fresh",
+          "descriptionReview": "The cauliflower was flavorful and exceeded my expectations. Packaging was secure, maintaining freshness.",
+          "imageProductReview": ["/public/assets/image/neocafe3.jpg"]
+        },
+        {
+          "nameUserReview": "Olivia Wilson",
+          "dateUserReview": "July 20, 2023",
+          "descriptionUserReview": "The organic cauliflower is a staple in my diet, always fresh and delicious!",
+          "reviewsProduct": "Highly recommend this organic cauliflower!",
+          "passedPurchase": "Verified Purchase",
+          "headlineReview": "Healthy and Fresh",
+          "descriptionReview": "The cauliflower is consistently fresh and delicious. Packaging ensures it arrives in top condition.",
+          "imageProductReview": ["/public/assets/image/neocafe2.jpg"]
+        },
+        {
+          "nameUserReview": "Daniel Taylor",
+          "dateUserReview": "August 5, 2023",
+          "descriptionUserReview": "The organic cauliflower was delivered promptly and in excellent condition!",
+          "reviewsProduct": "Very satisfied with this organic cauliflower!",
+          "passedPurchase": "Verified Purchase",
+          "headlineReview": "Excellent Service",
+          "descriptionReview": "The cauliflower arrived promptly and was in excellent condition. Packaging was secure and protected the vegetables well.",
+          "imageProductReview": ["/public/assets/image/neocafe2.jpg"]
+        },
+        {
+          "nameUserReview": "Sophia Miller",
+          "dateUserReview": "September 15, 2023",
+          "descriptionUserReview": "The organic cauliflower is my favorite, always fresh and perfect for my meals!",
+          "reviewsProduct": "Love this organic cauliflower!",
+          "passedPurchase": "Verified Purchase",
+          "headlineReview": "Favorite Choice",
+          "descriptionReview": "The cauliflower is consistently fresh and perfect for my meals. Packaging ensures it arrives safely and fresh.",
+          "imageProductReview": ["/public/assets/image/neocafe3.jpg"]
+        }
+      ]
+    },
+
+    {
+      "id": 543210,
+      "badgesDiscountProduct": ["New Arrival"],
+      "imagesProduct": ["/public/assets/image/Potabee1.jpeg", "/public/assets/image/Potabee2.jpeg", "/public/assets/image/Potabee3.jpeg"],
+      "nameCategory": "Snacks",
+      "nameProduct": "Organic Granola Bars",
+      "priceProduct": 25000,
+      "codeProduct": "SNK002",
+      "availabilityProduct": true,
+      "typeProduct": "Snacks",
+      "promoProduct": false,
+      "shippingProduct": "Free shipping on orders over 120,000",
+
+      "promoGlobalProduct": [
+        {
+          "discountPrice": 22000,
+          "percentageDiscount": 12
+        }
+      ],
+
+      "ProductDetails": {
+        "BenefitProduct": "Nutritious and energy-boosting",
+        "descriptionBenefitProduct": "Organic granola bars provide essential nutrients and are perfect for a quick energy boost.",
+        "StorageTips": "Store in a cool, dry place",
+        "descriptionStorageTips": "Keep granola bars sealed in their packaging in a cool, dry place to maintain freshness and crunchiness.",
+        "Unit": "Unit",
+        "descriptionUnit": "6 Bars",
+        "Seller": "Seller",
+        "descriptionSeller": "Healthy Harvest Snacks",
+        "Disclaimer": "Allergy warning",
+        "descriptionDisclaimer": "May contain traces of peanuts and soy."
+      },
+
+      "InformationProduct": {
+        "Weight": "300 grams",
+        "IngredientType": "Organic",
+        "Brand": "Healthy Harvest",
+        "ItemPackageQuantity": "360 grams",
+        "Form": "Bar",
+        "Manufacturer": "Healthy Harvest Snacks",
+        "NetQuantity": "6 bars",
+        "ProductDimensions": "15 x 5 x 10 cm",
+        "ASIN": "B08F5XYZ7A",
+        "BestSellersRank": "#3 in Snacks",
+        "DateFirstAvailable": "April 10, 2023",
+        "ItemWeight": "300 grams",
+        "GenericName": "Granola Bars",
+        "expiredDate": "December 1, 2024"
+      },
+
+      "ratingsProduct": [
+        {
+          "countRatingProduct": 30,
+          "globalCountRatingProduct": 5000,
+          "ratingBar": 1,
+          "percentageBar": 10
+        },
+        {
+          "countRatingProduct": 40,
+          "globalCountRatingProduct": 5000,
+          "ratingBar": 2,
+          "percentageBar": 20
+        },
+        {
+          "countRatingProduct": 20,
+          "globalCountRatingProduct": 5000,
+          "ratingBar": 3,
+          "percentageBar": 15
+        },
+        {
+          "countRatingProduct": 15,
+          "globalCountRatingProduct": 5000,
+          "ratingBar": 4,
+          "percentageBar": 30
+        },
+        {
+          "countRatingProduct": 5,
+          "globalCountRatingProduct": 5000,
+          "ratingBar": 5,
+          "percentageBar": 25
+        }
+      ],
+
+      "reviewProduct": [
+        {
+          "nameUserReview": "Emily Thompson",
+          "dateUserReview": "May 5, 2023",
+          "descriptionUserReview": "These organic granola bars are delicious and nutritious!",
+          "reviewsProduct": "Highly recommend these granola bars!",
+          "passedPurchase": "Verified Purchase",
+          "headlineReview": "Delicious and Nutritious",
+          "descriptionReview": "The granola bars are delicious and packed with nutrients. Packaging was good, ensuring freshness.",
+          "imageProductReview": ["/public/assets/image/Potabee3.jpeg"]
+        },
+        {
+          "nameUserReview": "Andrew Clark",
+          "dateUserReview": "June 1, 2023",
+          "descriptionUserReview": "These organic granola bars are perfect for a quick snack, very satisfying!",
+          "reviewsProduct": "Love these organic granola bars!",
+          "passedPurchase": "Verified Purchase",
+          "headlineReview": "Satisfying Snack",
+          "descriptionReview": "The granola bars are perfect for a quick snack and very satisfying. Packaging ensures they stay fresh.",
+          "imageProductReview": ["/public/assets/image/Potabee3.jpeg"]
+        },
+        {
+          "nameUserReview": "Sophie Williams",
+          "dateUserReview": "July 15, 2023",
+          "descriptionUserReview": "These organic granola bars are my go-to snack, love the flavor and texture!",
+          "reviewsProduct": "Highly satisfied with these granola bars!",
+          "passedPurchase": "Verified Purchase",
+          "headlineReview": "Favorite Snack Choice",
+          "descriptionReview": "The granola bars are my favorite snack choice due to their flavor and texture. Packaging keeps them fresh.",
+          "imageProductReview": ["/public/assets/image/Potabee3.jpeg"]
+        },
+        {
+          "nameUserReview": "Jacob Davis",
+          "dateUserReview": "August 10, 2023",
+          "descriptionUserReview": "The organic granola bars arrived promptly and in excellent condition!",
+          "reviewsProduct": "Very pleased with these organic granola bars!",
+          "passedPurchase": "Verified Purchase",
+          "headlineReview": "Excellent Delivery",
+          "descriptionReview": "The granola bars arrived promptly and were in excellent condition. Packaging was secure.",
+          "imageProductReview": ["/public/assets/image/Potabee3.jpeg"]
+        },
+        {
+          "nameUserReview": "Emma Wilson",
+          "dateUserReview": "September 20, 2023",
+          "descriptionUserReview": "These organic granola bars are delicious and convenient, perfect for my lifestyle!",
+          "reviewsProduct": "Love using these organic granola bars!",
+          "passedPurchase": "Verified Purchase",
+          "headlineReview": "Convenient Snack",
+          "descriptionReview": "The granola bars are delicious and convenient for my lifestyle. Packaging ensures freshness.",
+          "imageProductReview": ["/public/assets/image/Potabee3.jpeg"]
+        }
+      ]
+    },
+
+    {
+      "id": 345678,
+      "badgesDiscountProduct": ["Limited Edition"],
+      "imagesProduct": [
+        "/public/assets/image/productsingleimg1.jpg",
+        "/public/assets/image/productsingleimg2.jpg",
+        "/public/assets/image/productsingleimg3.jpg",
+        "/public/assets/image/productsingleimg4.jpg"
+      ],
+      "nameCategory": "Snacks",
+      "nameProduct": "Gourmet Popcorn Sampler",
+      "priceProduct": 25000,
+      "codeProduct": "GPS001",
+      "availabilityProduct": true,
+      "typeProduct": "Snacks",
+      "promoProduct": false,
+      "shippingProduct": "Free shipping on orders over 120,000",
+
+      "promoGlobalProduct": [],
+
+      "ProductDetails": {
+        "BenefitProduct": "Variety of flavors",
+        "descriptionBenefitProduct": "This gourmet popcorn sampler offers a variety of delicious flavors for every popcorn lover.",
+        "StorageTips": "Store in a cool, dry place",
+        "descriptionStorageTips": "Keep popcorn in a tightly sealed container to maintain its crispness and flavor.",
+        "Unit": "Unit",
+        "descriptionUnit": "6 Bags",
+        "Seller": "Seller",
+        "descriptionSeller": "Popcorn Delights",
+        "Disclaimer": "Allergy warning",
+        "descriptionDisclaimer": "This product may contain traces of dairy and nuts."
+      },
+
+      "InformationProduct": {
+        "Weight": "300 grams",
+        "IngredientType": "Natural",
+        "Brand": "Popcorn Delights",
+        "ItemPackageQuantity": "500 grams",
+        "Form": "Popcorn",
+        "Manufacturer": "Popcorn Delights",
+        "NetQuantity": "500 grams",
+        "ProductDimensions": "15 x 10 x 20 cm",
+        "ASIN": "B09F4XYZ12",
+        "BestSellersRank": "#5 in Snacks",
+        "DateFirstAvailable": "April 1, 2023",
+        "ItemWeight": "300 grams",
+        "GenericName": "Popcorn Sampler",
+        "expiredDate": "December 1, 2023"
+      },
+
+      "ratingsProduct": [
+        {
+          "countRatingProduct": 30,
+          "globalCountRatingProduct": 6000,
+          "ratingBar": 1,
+          "percentageBar": 10
+        },
+        {
+          "countRatingProduct": 50,
+          "globalCountRatingProduct": 6000,
+          "ratingBar": 2,
+          "percentageBar": 20
+        },
+        {
+          "countRatingProduct": 40,
+          "globalCountRatingProduct": 6000,
+          "ratingBar": 3,
+          "percentageBar": 30
+        },
+        {
+          "countRatingProduct": 60,
+          "globalCountRatingProduct": 6000,
+          "ratingBar": 4,
+          "percentageBar": 25
+        },
+        {
+          "countRatingProduct": 20,
+          "globalCountRatingProduct": 6000,
+          "ratingBar": 5,
+          "percentageBar": 15
+        }
+      ],
+
+      "reviewProduct": [
+        {
+          "nameUserReview": "Emily Roberts",
+          "dateUserReview": "May 10, 2023",
+          "descriptionUserReview": "The gourmet popcorn sampler is delicious with a great variety of flavors!",
+          "reviewsProduct": "Highly recommend this popcorn sampler!",
+          "passedPurchase": "Verified Purchase",
+          "headlineReview": "Delicious Variety",
+          "descriptionReview": "The popcorn sampler offers a delightful variety of flavors. Each bag was fresh and packed full of flavor.",
+          "imageProductReview": ["https://example.com/review-image16.jpg"]
+        },
+        {
+          "nameUserReview": "James Thompson",
+          "dateUserReview": "June 5, 2023",
+          "descriptionUserReview": "The gourmet popcorn sampler exceeded my expectations, perfect for movie nights!",
+          "reviewsProduct": "Love this popcorn sampler!",
+          "passedPurchase": "Verified Purchase",
+          "headlineReview": "Perfect for Movie Nights",
+          "descriptionReview": "The popcorn sampler exceeded my expectations. Each bag was fresh and had a distinct flavor. Packaging was secure.",
+          "imageProductReview": ["https://example.com/review-image17.jpg"]
+        },
+        {
+          "nameUserReview": "Sarah Walker",
+          "dateUserReview": "July 15, 2023",
+          "descriptionUserReview": "The gourmet popcorn sampler is a hit with my family, delicious and satisfying!",
+          "reviewsProduct": "Highly satisfied with this popcorn sampler!",
+          "passedPurchase": "Verified Purchase",
+          "headlineReview": "Family Favorite",
+          "descriptionReview": "The popcorn sampler is a family favorite. Each bag had a unique flavor and was fresh upon delivery.",
+          "imageProductReview": ["https://example.com/review-image18.jpg"]
+        },
+        {
+          "nameUserReview": "David Harris",
+          "dateUserReview": "August 20, 2023",
+          "descriptionUserReview": "The gourmet popcorn sampler arrived promptly and was a great treat for gatherings!",
+          "reviewsProduct": "Very pleased with this popcorn sampler!",
+          "passedPurchase": "Verified Purchase",
+          "headlineReview": "Great for Gatherings",
+          "descriptionReview": "The popcorn sampler arrived promptly and was a hit at our gathering. Packaging ensured freshness.",
+          "imageProductReview": ["https://example.com/review-image19.jpg"]
+        },
+        {
+          "nameUserReview": "Rachel Green",
+          "dateUserReview": "September 1, 2023",
+          "descriptionUserReview": "The gourmet popcorn sampler is my new favorite snack, great flavors!",
+          "reviewsProduct": "Obsessed with this popcorn sampler!",
+          "passedPurchase": "Verified Purchase",
+          "headlineReview": "New Favorite Snack",
+          "descriptionReview": "The popcorn sampler is now my go-to snack. Each flavor was delicious and packed with freshness.",
+          "imageProductReview": ["https://example.com/review-image20.jpg"]
+        }
+      ]
+    },
+
+    {
+      "id": 234567,
+      "badgesDiscountProduct": ["Organik", "Non-GMO"],
+      "imagesProduct": ["https://example.com/product-image4.jpg"],
+      "nameCategory": "Fruits",
+      "nameProduct": "Organic Apples",
+      "priceProduct": 25000,
+      "codeProduct": "OAP001",
+      "availabilityProduct": true,
+      "typeProduct": "Fresh Fruits",
+      "promoProduct": true,
+      "shippingProduct": "Free shipping on orders over 120,000",
+
+      "promoGlobalProduct": [
+        {
+          "discountPrice": 22500,
+          "percentageDiscount": 10
+        }
+      ],
+
+      "ProductDetails": {
+        "BenefitProduct": "High in vitamins and antioxidants",
+        "descriptionBenefitProduct": "Organic apples are rich in vitamins and antioxidants, promoting overall health.",
+        "StorageTips": "Store in a cool, dry place",
+        "descriptionStorageTips": "Keep apples in the refrigerator to maintain crispness and flavor.",
+        "Unit": "Unit",
+        "descriptionUnit": "1 kg",
+        "Seller": "Seller",
+        "descriptionSeller": "GreenFields Organic Farms",
+        "Disclaimer": "Allergy warning",
+        "descriptionDisclaimer": "This product may have been handled in facilities that process dairy products."
+      },
+
+      "InformationProduct": {
+        "Weight": "1 kg",
+        "IngredientType": "Organic",
+        "Brand": "GreenFields Organics",
+        "ItemPackageQuantity": "2 kg",
+        "Form": "Fruits",
+        "Manufacturer": "GreenFields Organic Farms",
+        "NetQuantity": "2 kg",
+        "ProductDimensions": "15 x 15 x 10 cm",
+        "ASIN": "B08D4EFG5H",
+        "BestSellersRank": "#432 in Fruits",
+        "DateFirstAvailable": "April 1, 2023",
+        "ItemWeight": "1 kg",
+        "GenericName": "Apples",
+        "expiredDate": "December 1, 2023"
+      },
+
+      "ratingsProduct": [
+        {
+          "countRatingProduct": 30,
+          "globalCountRatingProduct": 6500,
+          "ratingBar": 1,
+          "percentageBar": 10
+        },
+        {
+          "countRatingProduct": 40,
+          "globalCountRatingProduct": 6500,
+          "ratingBar": 2,
+          "percentageBar": 20
+        },
+        {
+          "countRatingProduct": 25,
+          "globalCountRatingProduct": 6500,
+          "ratingBar": 3,
+          "percentageBar": 15
+        },
+        {
+          "countRatingProduct": 20,
+          "globalCountRatingProduct": 6500,
+          "ratingBar": 4,
+          "percentageBar": 20
+        },
+        {
+          "countRatingProduct": 15,
+          "globalCountRatingProduct": 6500,
+          "ratingBar": 5,
+          "percentageBar": 35
+        }
+      ],
+
+      "reviewProduct": [
+        {
+          "nameUserReview": "Sophia Anderson",
+          "dateUserReview": "May 10, 2023",
+          "descriptionUserReview": "The organic apples are delicious and crisp!",
+          "reviewsProduct": "Absolutely love these organic apples!",
+          "passedPurchase": "Verified Purchase",
+          "headlineReview": "Delicious Apples",
+          "descriptionReview": "The apples are fresh and delicious. Packaging was good, ensuring they arrived in perfect condition.",
+          "imageProductReview": ["https://example.com/review-image16.jpg"]
+        },
+        {
+          "nameUserReview": "David Wilson",
+          "dateUserReview": "June 5, 2023",
+          "descriptionUserReview": "The organic apples are perfect for snacking and cooking!",
+          "reviewsProduct": "Highly recommend these organic apples!",
+          "passedPurchase": "Verified Purchase",
+          "headlineReview": "Versatile Apples",
+          "descriptionReview": "The apples are perfect for snacking and cooking. Packaging ensures they stay fresh.",
+          "imageProductReview": ["/public/assets/image/productsingleimg4.jpg"]
+        },
+        {
+          "nameUserReview": "Emily Roberts",
+          "dateUserReview": "July 15, 2023",
+          "descriptionUserReview": "The organic apples are consistently fresh and flavorful!",
+          "reviewsProduct": "Very satisfied with these organic apples!",
+          "passedPurchase": "Verified Purchase",
+          "headlineReview": "Fresh and Flavorful",
+          "descriptionReview": "The apples are consistently fresh and flavorful. Packaging was secure, maintaining their quality.",
+          "imageProductReview": ["/public/assets/image/productsingleimg1.jpg"]
+        },
+        {
+          "nameUserReview": "James Thompson",
+          "dateUserReview": "August 20, 2023",
+          "descriptionUserReview": "The organic apples were delivered promptly and in great condition!",
+          "reviewsProduct": "Impressed with the quality of these organic apples!",
+          "passedPurchase": "Verified Purchase",
+          "headlineReview": "Excellent Delivery",
+          "descriptionReview": "The apples arrived promptly and in great condition. Packaging was well done.",
+          "imageProductReview": ["/public/assets/image/productsingleimg2.jpg"]
+        },
+        {
+          "nameUserReview": "Emma Davis",
+          "dateUserReview": "September 30, 2023",
+          "descriptionUserReview": "The organic apples are my favorite, always fresh and juicy!",
+          "reviewsProduct": "Love these organic apples!",
+          "passedPurchase": "Verified Purchase",
+          "headlineReview": "Favorite Apples",
+          "descriptionReview": "The apples are always fresh and juicy, perfect for any occasion. Packaging ensures they arrive in top condition.",
+          "imageProductReview": ["/public/assets/image/productsingleimg3.jpg"]
+        }
+      ]
+    },
+
+    {
+      "id": 345678,
+      "badgesDiscountProduct": ["Special Offer"],
+      "imagesProduct": ["https://example.com/product-image4.jpg"],
+      "nameCategory": "Snacks",
+      "nameProduct": "Organic Mixed Nuts",
+      "priceProduct": 25000,
+      "codeProduct": "OMN001",
+      "availabilityProduct": true,
+      "typeProduct": "Mixed Nuts",
+      "promoProduct": false,
+      "shippingProduct": "Free shipping on orders over 120,000",
+
+      "promoGlobalProduct": [
+        {
+          "discountPrice": 22000,
+          "percentageDiscount": 12
+        }
+      ],
+
+      "ProductDetails": {
+        "BenefitProduct": "Packed with nutrients and antioxidants",
+        "descriptionBenefitProduct": "Organic mixed nuts are packed with essential nutrients and antioxidants for a healthy snack option.",
+        "StorageTips": "Store in a cool, dry place",
+        "descriptionStorageTips": "Keep nuts in a sealed container in a cool, dry place to maintain their freshness and crunchiness.",
+        "Unit": "Pack",
+        "descriptionUnit": "250 grams",
+        "Seller": "Seller",
+        "descriptionSeller": "Nutrition Delights",
+        "Disclaimer": "Allergy warning",
+        "descriptionDisclaimer": "This product may contain traces of peanuts and other tree nuts."
+      },
+
+      "InformationProduct": {
+        "Weight": "250 grams",
+        "IngredientType": "Organic",
+        "Brand": "Nutrition Delights",
+        "ItemPackageQuantity": "500 grams",
+        "Form": "Mixed",
+        "Manufacturer": "Nutrition Delights",
+        "NetQuantity": "500 grams",
+        "ProductDimensions": "15 x 10 x 5 cm",
+        "ASIN": "B08F5XYZ12",
+        "BestSellersRank": "#345 in Nuts",
+        "DateFirstAvailable": "April 1, 2023",
+        "ItemWeight": "250 grams",
+        "GenericName": "Mixed Nuts",
+        "expiredDate": "December 1, 2024"
+      },
+
+      "ratingsProduct": [
+        {
+          "countRatingProduct": 30,
+          "globalCountRatingProduct": 5000,
+          "ratingBar": 1,
+          "percentageBar": 10
+        },
+        {
+          "countRatingProduct": 40,
+          "globalCountRatingProduct": 5000,
+          "ratingBar": 2,
+          "percentageBar": 20
+        },
+        {
+          "countRatingProduct": 25,
+          "globalCountRatingProduct": 5000,
+          "ratingBar": 3,
+          "percentageBar": 15
+        },
+        {
+          "countRatingProduct": 20,
+          "globalCountRatingProduct": 5000,
+          "ratingBar": 4,
+          "percentageBar": 20
+        },
+        {
+          "countRatingProduct": 15,
+          "globalCountRatingProduct": 5000,
+          "ratingBar": 5,
+          "percentageBar": 35
+        }
+      ],
+
+      "reviewProduct": [
+        {
+          "nameUserReview": "Emily Thompson",
+          "dateUserReview": "May 10, 2023",
+          "descriptionUserReview": "The organic mixed nuts are delicious and crunchy, perfect for snacking!",
+          "reviewsProduct": "Highly recommend these organic mixed nuts!",
+          "passedPurchase": "Verified Purchase",
+          "headlineReview": "Delicious Snack",
+          "descriptionReview": "The mixed nuts are delicious and crunchy, perfect for snacking anytime. Packaging was secure, ensuring freshness.",
+          "imageProductReview": ["https://example.com/review-image16.jpg"]
+        },
+        {
+          "nameUserReview": "James Wilson",
+          "dateUserReview": "June 5, 2023",
+          "descriptionUserReview": "The organic mixed nuts are a healthy and tasty choice for snacks!",
+          "reviewsProduct": "Love these organic mixed nuts!",
+          "passedPurchase": "Verified Purchase",
+          "headlineReview": "Healthy and Tasty",
+          "descriptionReview": "The mixed nuts are a healthy and tasty snack choice. Packaging was good, keeping the nuts fresh.",
+          "imageProductReview": ["https://example.com/review-image17.jpg"]
+        },
+        {
+          "nameUserReview": "Sarah Davis",
+          "dateUserReview": "July 15, 2023",
+          "descriptionUserReview": "The organic mixed nuts exceeded my expectations, very flavorful!",
+          "reviewsProduct": "Very satisfied with these organic mixed nuts!",
+          "passedPurchase": "Verified Purchase",
+          "headlineReview": "Flavorful Nuts",
+          "descriptionReview": "The mixed nuts were flavorful and exceeded my expectations. Packaging was excellent, maintaining freshness.",
+          "imageProductReview": ["https://example.com/review-image18.jpg"]
+        },
+        {
+          "nameUserReview": "Jacob Brown",
+          "dateUserReview": "August 20, 2023",
+          "descriptionUserReview": "The organic mixed nuts arrived promptly and in perfect condition!",
+          "reviewsProduct": "Extremely satisfied with these organic mixed nuts!",
+          "passedPurchase": "Verified Purchase",
+          "headlineReview": "Excellent Delivery",
+          "descriptionReview": "The mixed nuts arrived promptly and in perfect condition. Packaging was well done, protecting the nuts.",
+          "imageProductReview": ["https://example.com/review-image19.jpg"]
+        },
+        {
+          "nameUserReview": "Emma White",
+          "dateUserReview": "September 25, 2023",
+          "descriptionUserReview": "The organic mixed nuts are my favorite snack, always fresh and satisfying!",
+          "reviewsProduct": "My favorite organic mixed nuts!",
+          "passedPurchase": "Verified Purchase",
+          "headlineReview": "Favorite Snack",
+          "descriptionReview": "The mixed nuts are always fresh and satisfying. Packaging ensures they arrive in top condition.",
+          "imageProductReview": ["https://example.com/review-image20.jpg"]
+        }
+      ]
+    },
+
+    {
+      "id": 654321,
+      "badgesDiscountProduct": ["New Arrival"],
+      "imagesProduct": ["https://example.com/product-image4.jpg"],
+      "nameCategory": "Fruit",
+      "nameProduct": "Organic Mangoes",
+      "priceProduct": 25000,
+      "codeProduct": "OMG002",
+      "availabilityProduct": true,
+      "typeProduct": "Fresh Fruit",
+      "promoProduct": false,
+      "shippingProduct": "Free shipping on orders over 120,000",
+
+      "promoGlobalProduct": [
+        {
+          "discountPrice": 23000,
+          "percentageDiscount": 8
+        }
+      ],
+
+      "ProductDetails": {
+        "BenefitProduct": "Rich in vitamins A and C",
+        "descriptionBenefitProduct": "Organic mangoes are rich in vitamins A and C, promoting immune health and skin rejuvenation.",
+        "StorageTips": "Store in a cool, dry place",
+        "descriptionStorageTips": "Keep mangoes at room temperature until ripe, then refrigerate to extend freshness.",
+        "Unit": "Unit",
+        "descriptionUnit": "1 kg",
+        "Seller": "Seller",
+        "descriptionSeller": "GreenFields Farm",
+        "Disclaimer": "Allergy warning",
+        "descriptionDisclaimer": "This product may have been processed in a facility that also processes nuts and dairy."
+      },
+
+      "InformationProduct": {
+        "Weight": "500 grams",
+        "IngredientType": "Organic",
+        "Brand": "GreenFields Organics",
+        "ItemPackageQuantity": "2 kg",
+        "Form": "Whole",
+        "Manufacturer": "GreenFields Farm",
+        "NetQuantity": "2 kg",
+        "ProductDimensions": "15 x 10 x 8 cm",
+        "ASIN": "B08D5XYZ9A",
+        "BestSellersRank": "#345 in Fruit",
+        "DateFirstAvailable": "April 5, 2023",
+        "ItemWeight": "500 grams",
+        "GenericName": "Mangoes",
+        "expiredDate": "July 1, 2024"
+      },
+
+      "ratingsProduct": [
+        {
+          "countRatingProduct": 30,
+          "globalCountRatingProduct": 6000,
+          "ratingBar": 1,
+          "percentageBar": 10
+        },
+        {
+          "countRatingProduct": 40,
+          "globalCountRatingProduct": 6000,
+          "ratingBar": 2,
+          "percentageBar": 20
+        },
+        {
+          "countRatingProduct": 20,
+          "globalCountRatingProduct": 6000,
+          "ratingBar": 3,
+          "percentageBar": 15
+        },
+        {
+          "countRatingProduct": 25,
+          "globalCountRatingProduct": 6000,
+          "ratingBar": 4,
+          "percentageBar": 25
+        },
+        {
+          "countRatingProduct": 35,
+          "globalCountRatingProduct": 6000,
+          "ratingBar": 5,
+          "percentageBar": 30
+        }
+      ],
+
+      "reviewProduct": [
+        {
+          "nameUserReview": "David Thompson",
+          "dateUserReview": "May 10, 2023",
+          "descriptionUserReview": "The organic mangoes are delicious and juicy, perfect for snacking!",
+          "reviewsProduct": "Highly recommend these organic mangoes!",
+          "passedPurchase": "Verified Purchase",
+          "headlineReview": "Delicious Mangoes",
+          "descriptionReview": "The mangoes were sweet and juicy. Packaging ensured they arrived in perfect condition.",
+          "imageProductReview": ["https://example.com/review-image16.jpg"]
+        },
+        {
+          "nameUserReview": "Sarah White",
+          "dateUserReview": "June 1, 2023",
+          "descriptionUserReview": "The organic mangoes are excellent quality and very flavorful!",
+          "reviewsProduct": "Love these organic mangoes!",
+          "passedPurchase": "Verified Purchase",
+          "headlineReview": "Flavorful Mangoes",
+          "descriptionReview": "The mangoes had a rich flavor and were of excellent quality. Packaging was secure.",
+          "imageProductReview": ["https://example.com/review-image17.jpg"]
+        },
+        {
+          "nameUserReview": "Robert Davis",
+          "dateUserReview": "July 15, 2023",
+          "descriptionUserReview": "The organic mangoes were delivered fresh and were perfect for making smoothies!",
+          "reviewsProduct": "Very satisfied with these organic mangoes!",
+          "passedPurchase": "Verified Purchase",
+          "headlineReview": "Fresh and Versatile",
+          "descriptionReview": "The mangoes were fresh and perfect for various uses. Packaging ensured they stayed fresh.",
+          "imageProductReview": ["https://example.com/review-image18.jpg"]
+        },
+        {
+          "nameUserReview": "Jessica Green",
+          "dateUserReview": "August 10, 2023",
+          "descriptionUserReview": "The organic mangoes were a hit with my family, everyone loved them!",
+          "reviewsProduct": "Great organic mangoes!",
+          "passedPurchase": "Verified Purchase",
+          "headlineReview": "Family Favorite",
+          "descriptionReview": "The mangoes were sweet and everyone enjoyed them. Packaging was good, ensuring freshness.",
+          "imageProductReview": ["https://example.com/review-image19.jpg"]
+        },
+        {
+          "nameUserReview": "Emily Harris",
+          "dateUserReview": "September 5, 2023",
+          "descriptionUserReview": "The organic mangoes were exactly what I expected, delicious and high quality!",
+          "reviewsProduct": "Highly satisfied with these organic mangoes!",
+          "passedPurchase": "Verified Purchase",
+          "headlineReview": "Excellent Quality",
+          "descriptionReview": "The mangoes were delicious and exactly as described. Packaging protected them well.",
+          "imageProductReview": ["https://example.com/review-image20.jpg"]
+        }
+      ]
+    }
+  ]
+}
