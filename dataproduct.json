@@ -4,9 +4,10 @@
       "id": 392032,
       "badgesDiscountProduct": ["Sale"],
       "imagesProduct": [
-        "https://i.pinimg.com/564x/14/fb/f5/14fbf589a2f366f1c3c38a217bf04876.jpg",
-        "https://i.pinimg.com/564x/e5/08/81/e50881258b53fdb24b1c63cc960168b1.jpg",
-        "https://i.pinimg.com/564x/36/5d/89/365d894c988ebfb5484c220ee71abee9.jpg"
+        "/freshcart/assets/image/popularproduct/Japota1.jpg",
+        "/freshcart/assets/image/popularproduct/Japota2.jpg",
+        "/freshcart/assets/image/popularproduct/Japota3.jpeg",
+        "/freshcart/assets/image/popularproduct/Japota3.jpeg"
       ],
       "nameCategory": "Rice",
       "nameProduct": "Organic White Rice",
@@ -96,7 +97,7 @@
           "passedPurchase": "Verified Purchase",
           "headlineReview": "High Quality Rice",
           "descriptionReview": "The white rice is of excellent quality and cooks perfectly. Packaging was good, ensuring freshness.",
-          "imageProductReview": ["/public/assets/image/Japota1.jpg"]
+          "imageProductReview": ["/freshcart/assets/image/popularproduct/Japota1.jpg"]
         },
         {
           "nameUserReview": "William Johnson",
@@ -106,7 +107,7 @@
           "passedPurchase": "Verified Purchase",
           "headlineReview": "Flavorful and Nutritious",
           "descriptionReview": "The white rice is flavorful and nutritious, perfect for meals. Packaging was secure, ensuring quality.",
-          "imageProductReview": ["/public/assets/image/Japota2.jpg"]
+          "imageProductReview": ["/freshcart/assets/image/popularproduct/Japota2.jpg"]
         },
         {
           "nameUserReview": "Emma Wilson",
@@ -116,7 +117,7 @@
           "passedPurchase": "Verified Purchase",
           "headlineReview": "Favorite Rice Choice",
           "descriptionReview": "The white rice is my go-to choice for its taste and quality. Packaging ensures it arrives fresh.",
-          "imageProductReview": ["/public/assets/image/Japota1.jpg"]
+          "imageProductReview": ["/freshcart/assets/image/popularproduct/Japota1.jpg"]
         },
         {
           "nameUserReview": "Michael Clark",
@@ -126,7 +127,7 @@
           "passedPurchase": "Verified Purchase",
           "headlineReview": "Excellent Delivery",
           "descriptionReview": "The white rice arrived promptly and in perfect condition. Packaging was well done.",
-          "imageProductReview": ["/public/assets/image/Japota3.jpg"]
+          "imageProductReview": ["/freshcart/assets/image/popularproduct/Japota3.jpg"]
         },
         {
           "nameUserReview": "Olivia Davis",
@@ -136,7 +137,7 @@
           "passedPurchase": "Verified Purchase",
           "headlineReview": "Versatile Rice",
           "descriptionReview": "The white rice is delicious and versatile, great for various dishes. Packaging ensures freshness.",
-          "imageProductReview": ["/public/assets/image/Japota2.jpg"]
+          "imageProductReview": ["/freshcart/assets/image/popularproduct/Japota2.jpg"]
         }
       ]
     },
@@ -144,7 +145,12 @@
     {
       "id": 987654,
       "badgesDiscountProduct": ["Presale"],
-      "imagesProduct": ["/public/assets/image/neocafe1.jpg", "/public/assets/image/neocafe2.jpg", "/public/assets/image/neocafe2.jpg"],
+      "imagesProduct": [
+        "/freshcart/assets/image/popularproduct/neocafe1.jpg",
+        "/freshcart/assets/image/popularproduct/neocafe2.jpg",
+        "/freshcart/assets/image/popularproduct/neocafe3.jpg",
+        "/freshcart/assets/image/popularproduct/neocafe1.jpg"
+      ],
       "nameCategory": "Vegetables",
       "nameProduct": "Organic Cauliflower",
       "priceProduct": 18000,
@@ -228,7 +234,7 @@
           "passedPurchase": "Verified Purchase",
           "headlineReview": "Great Quality",
           "descriptionReview": "The cauliflower was delivered fresh and crunchy. Packaging was good, ensuring the vegetables were protected.",
-          "imageProductReview": ["/public/assets/image/neocafe1.jpg"]
+          "imageProductReview": ["/freshcart/assets/image/popularproduct/neocafe1.jpg"]
         },
         {
           "nameUserReview": "Michael Brown",
@@ -238,7 +244,7 @@
           "passedPurchase": "Verified Purchase",
           "headlineReview": "Flavorful and Fresh",
           "descriptionReview": "The cauliflower was flavorful and exceeded my expectations. Packaging was secure, maintaining freshness.",
-          "imageProductReview": ["/public/assets/image/neocafe3.jpg"]
+          "imageProductReview": ["/freshcart/assets/image/popularproduct/neocafe3.jpg"]
         },
         {
           "nameUserReview": "Olivia Wilson",
@@ -248,7 +254,7 @@
           "passedPurchase": "Verified Purchase",
           "headlineReview": "Healthy and Fresh",
           "descriptionReview": "The cauliflower is consistently fresh and delicious. Packaging ensures it arrives in top condition.",
-          "imageProductReview": ["/public/assets/image/neocafe2.jpg"]
+          "imageProductReview": ["/freshcart/assets/image/popularproduct/neocafe2.jpg"]
         },
         {
           "nameUserReview": "Daniel Taylor",
@@ -258,7 +264,7 @@
           "passedPurchase": "Verified Purchase",
           "headlineReview": "Excellent Service",
           "descriptionReview": "The cauliflower arrived promptly and was in excellent condition. Packaging was secure and protected the vegetables well.",
-          "imageProductReview": ["/public/assets/image/neocafe2.jpg"]
+          "imageProductReview": ["/freshcart/assets/image/popularproduct/neocafe2.jpg"]
         },
         {
           "nameUserReview": "Sophia Miller",
@@ -268,7 +274,7 @@
           "passedPurchase": "Verified Purchase",
           "headlineReview": "Favorite Choice",
           "descriptionReview": "The cauliflower is consistently fresh and perfect for my meals. Packaging ensures it arrives safely and fresh.",
-          "imageProductReview": ["/public/assets/image/neocafe3.jpg"]
+          "imageProductReview": ["/freshcart/assets/image/popularproduct/neocafe3.jpg"]
         }
       ]
     },
@@ -276,7 +282,12 @@
     {
       "id": 543210,
       "badgesDiscountProduct": ["New Arrival"],
-      "imagesProduct": ["/public/assets/image/Potabee1.jpeg", "/public/assets/image/Potabee2.jpeg", "/public/assets/image/Potabee3.jpeg"],
+      "imagesProduct": [
+        "/freshcart/assets/image/popularproduct/Potabee1.jpeg",
+        "/freshcart/assets/image/popularproduct/Potabee2.jpeg",
+        "/freshcart/assets/image/popularproduct/Potabee3.jpeg",
+        "/freshcart/assets/image/popularproduct/Potabee2.jpeg"
+      ],
       "nameCategory": "Snacks",
       "nameProduct": "Organic Granola Bars",
       "priceProduct": 25000,
@@ -365,7 +376,7 @@
           "passedPurchase": "Verified Purchase",
           "headlineReview": "Delicious and Nutritious",
           "descriptionReview": "The granola bars are delicious and packed with nutrients. Packaging was good, ensuring freshness.",
-          "imageProductReview": ["/public/assets/image/Potabee3.jpeg"]
+          "imageProductReview": ["/freshcart/assets/image/popularproduct/Potabee3.jpeg"]
         },
         {
           "nameUserReview": "Andrew Clark",
@@ -375,7 +386,7 @@
           "passedPurchase": "Verified Purchase",
           "headlineReview": "Satisfying Snack",
           "descriptionReview": "The granola bars are perfect for a quick snack and very satisfying. Packaging ensures they stay fresh.",
-          "imageProductReview": ["/public/assets/image/Potabee3.jpeg"]
+          "imageProductReview": ["/freshcart/assets/image/popularproduct/Potabee3.jpeg"]
         },
         {
           "nameUserReview": "Sophie Williams",
@@ -385,7 +396,7 @@
           "passedPurchase": "Verified Purchase",
           "headlineReview": "Favorite Snack Choice",
           "descriptionReview": "The granola bars are my favorite snack choice due to their flavor and texture. Packaging keeps them fresh.",
-          "imageProductReview": ["/public/assets/image/Potabee3.jpeg"]
+          "imageProductReview": ["/freshcart/assets/image/popularproduct/Potabee3.jpeg"]
         },
         {
           "nameUserReview": "Jacob Davis",
@@ -395,7 +406,7 @@
           "passedPurchase": "Verified Purchase",
           "headlineReview": "Excellent Delivery",
           "descriptionReview": "The granola bars arrived promptly and were in excellent condition. Packaging was secure.",
-          "imageProductReview": ["/public/assets/image/Potabee3.jpeg"]
+          "imageProductReview": ["/freshcart/assets/image/popularproduct/Potabee3.jpeg"]
         },
         {
           "nameUserReview": "Emma Wilson",
@@ -405,7 +416,7 @@
           "passedPurchase": "Verified Purchase",
           "headlineReview": "Convenient Snack",
           "descriptionReview": "The granola bars are delicious and convenient for my lifestyle. Packaging ensures freshness.",
-          "imageProductReview": ["/public/assets/image/Potabee3.jpeg"]
+          "imageProductReview": ["/freshcart/assets/image/popularproduct/Potabee3.jpeg"]
         }
       ]
     },
@@ -414,10 +425,10 @@
       "id": 345678,
       "badgesDiscountProduct": ["Limited Edition"],
       "imagesProduct": [
-        "/public/assets/image/productsingleimg1.jpg",
-        "/public/assets/image/productsingleimg2.jpg",
-        "/public/assets/image/productsingleimg3.jpg",
-        "/public/assets/image/productsingleimg4.jpg"
+        "/freshcart/assets/image/popularproduct/productsingleimg1.jpg",
+        "/freshcart/assets/image/popularproduct/productsingleimg2.jpg",
+        "/freshcart/assets/image/popularproduct/productsingleimg3.jpg",
+        "/freshcart/assets/image/popularproduct/productsingleimg4.jpg"
       ],
       "nameCategory": "Snacks",
       "nameProduct": "Gourmet Popcorn Sampler",
@@ -502,7 +513,7 @@
           "passedPurchase": "Verified Purchase",
           "headlineReview": "Delicious Variety",
           "descriptionReview": "The popcorn sampler offers a delightful variety of flavors. Each bag was fresh and packed full of flavor.",
-          "imageProductReview": ["https://example.com/review-image16.jpg"]
+          "imageProductReview": ["/freshcart/assets/image/popularproduct/productsingleimg4.jpg"]
         },
         {
           "nameUserReview": "James Thompson",
@@ -512,7 +523,7 @@
           "passedPurchase": "Verified Purchase",
           "headlineReview": "Perfect for Movie Nights",
           "descriptionReview": "The popcorn sampler exceeded my expectations. Each bag was fresh and had a distinct flavor. Packaging was secure.",
-          "imageProductReview": ["https://example.com/review-image17.jpg"]
+          "imageProductReview": ["/freshcart/assets/image/popularproduct/productsingleimg4.jpg"]
         },
         {
           "nameUserReview": "Sarah Walker",
@@ -522,7 +533,7 @@
           "passedPurchase": "Verified Purchase",
           "headlineReview": "Family Favorite",
           "descriptionReview": "The popcorn sampler is a family favorite. Each bag had a unique flavor and was fresh upon delivery.",
-          "imageProductReview": ["https://example.com/review-image18.jpg"]
+          "imageProductReview": ["/freshcart/assets/image/popularproduct/productsingleimg4.jpg"]
         },
         {
           "nameUserReview": "David Harris",
@@ -532,7 +543,7 @@
           "passedPurchase": "Verified Purchase",
           "headlineReview": "Great for Gatherings",
           "descriptionReview": "The popcorn sampler arrived promptly and was a hit at our gathering. Packaging ensured freshness.",
-          "imageProductReview": ["https://example.com/review-image19.jpg"]
+          "imageProductReview": ["/freshcart/assets/image/popularproduct/productsingleimg4.jpg"]
         },
         {
           "nameUserReview": "Rachel Green",
@@ -542,7 +553,7 @@
           "passedPurchase": "Verified Purchase",
           "headlineReview": "New Favorite Snack",
           "descriptionReview": "The popcorn sampler is now my go-to snack. Each flavor was delicious and packed with freshness.",
-          "imageProductReview": ["https://example.com/review-image20.jpg"]
+          "imageProductReview": ["/freshcart/assets/image/popularproduct/productsingleimg4.jpg"]
         }
       ]
     },
@@ -550,7 +561,12 @@
     {
       "id": 234567,
       "badgesDiscountProduct": ["Organik", "Non-GMO"],
-      "imagesProduct": ["https://example.com/product-image4.jpg"],
+      "imagesProduct": [
+        "/freshcart/assets/image/popularproduct/product1.jpg",
+        "/freshcart/assets/image/popularproduct/product1.jpg",
+        "/freshcart/assets/image/popularproduct/product1.jpg",
+        "/freshcart/assets/image/popularproduct/product1.jpg"
+      ],
       "nameCategory": "Fruits",
       "nameProduct": "Organic Apples",
       "priceProduct": 25000,
@@ -590,7 +606,7 @@
         "NetQuantity": "2 kg",
         "ProductDimensions": "15 x 15 x 10 cm",
         "ASIN": "B08D4EFG5H",
-        "BestSellersRank": "#432 in Fruits",
+        "BestSellersRank": "#2 in Fruits",
         "DateFirstAvailable": "April 1, 2023",
         "ItemWeight": "1 kg",
         "GenericName": "Apples",
@@ -639,7 +655,7 @@
           "passedPurchase": "Verified Purchase",
           "headlineReview": "Delicious Apples",
           "descriptionReview": "The apples are fresh and delicious. Packaging was good, ensuring they arrived in perfect condition.",
-          "imageProductReview": ["https://example.com/review-image16.jpg"]
+          "imageProductReview": ["/freshcart/assets/image/popularproduct/productsingleimg4.jpg"]
         },
         {
           "nameUserReview": "David Wilson",
@@ -649,7 +665,7 @@
           "passedPurchase": "Verified Purchase",
           "headlineReview": "Versatile Apples",
           "descriptionReview": "The apples are perfect for snacking and cooking. Packaging ensures they stay fresh.",
-          "imageProductReview": ["/public/assets/image/productsingleimg4.jpg"]
+          "imageProductReview": ["/freshcart/assets/image/popularproduct/productsingleimg4.jpg"]
         },
         {
           "nameUserReview": "Emily Roberts",
@@ -659,7 +675,7 @@
           "passedPurchase": "Verified Purchase",
           "headlineReview": "Fresh and Flavorful",
           "descriptionReview": "The apples are consistently fresh and flavorful. Packaging was secure, maintaining their quality.",
-          "imageProductReview": ["/public/assets/image/productsingleimg1.jpg"]
+          "imageProductReview": ["/freshcart/assets/image/popularproduct/productsingleimg1.jpg"]
         },
         {
           "nameUserReview": "James Thompson",
@@ -669,7 +685,7 @@
           "passedPurchase": "Verified Purchase",
           "headlineReview": "Excellent Delivery",
           "descriptionReview": "The apples arrived promptly and in great condition. Packaging was well done.",
-          "imageProductReview": ["/public/assets/image/productsingleimg2.jpg"]
+          "imageProductReview": ["/freshcart/assets/image/popularproduct/productsingleimg2.jpg"]
         },
         {
           "nameUserReview": "Emma Davis",
@@ -679,7 +695,7 @@
           "passedPurchase": "Verified Purchase",
           "headlineReview": "Favorite Apples",
           "descriptionReview": "The apples are always fresh and juicy, perfect for any occasion. Packaging ensures they arrive in top condition.",
-          "imageProductReview": ["/public/assets/image/productsingleimg3.jpg"]
+          "imageProductReview": ["/freshcart/assets/image/popularproduct/productsingleimg3.jpg"]
         }
       ]
     },
@@ -687,7 +703,12 @@
     {
       "id": 345678,
       "badgesDiscountProduct": ["Special Offer"],
-      "imagesProduct": ["https://example.com/product-image4.jpg"],
+      "imagesProduct": [
+        "/freshcart/assets/image/popularproduct/popularproduct/product4.jpg",
+        "/freshcart/assets/image/popularproduct/popularproduct/product4.jpg",
+        "/freshcart/assets/image/popularproduct/popularproduct/product4.jpg",
+        "/freshcart/assets/image/popularproduct/popularproduct/product4.jpg"
+      ],
       "nameCategory": "Snacks",
       "nameProduct": "Organic Mixed Nuts",
       "priceProduct": 25000,
@@ -727,7 +748,7 @@
         "NetQuantity": "500 grams",
         "ProductDimensions": "15 x 10 x 5 cm",
         "ASIN": "B08F5XYZ12",
-        "BestSellersRank": "#345 in Nuts",
+        "BestSellersRank": "#6 in Nuts",
         "DateFirstAvailable": "April 1, 2023",
         "ItemWeight": "250 grams",
         "GenericName": "Mixed Nuts",
@@ -776,7 +797,7 @@
           "passedPurchase": "Verified Purchase",
           "headlineReview": "Delicious Snack",
           "descriptionReview": "The mixed nuts are delicious and crunchy, perfect for snacking anytime. Packaging was secure, ensuring freshness.",
-          "imageProductReview": ["https://example.com/review-image16.jpg"]
+          "imageProductReview": ["/freshcart/assets/image/popularproduct/popularproduct/product4.jpg"]
         },
         {
           "nameUserReview": "James Wilson",
@@ -786,7 +807,7 @@
           "passedPurchase": "Verified Purchase",
           "headlineReview": "Healthy and Tasty",
           "descriptionReview": "The mixed nuts are a healthy and tasty snack choice. Packaging was good, keeping the nuts fresh.",
-          "imageProductReview": ["https://example.com/review-image17.jpg"]
+          "imageProductReview": ["/freshcart/assets/image/popularproduct/popularproduct/product4.jpg"]
         },
         {
           "nameUserReview": "Sarah Davis",
@@ -796,7 +817,7 @@
           "passedPurchase": "Verified Purchase",
           "headlineReview": "Flavorful Nuts",
           "descriptionReview": "The mixed nuts were flavorful and exceeded my expectations. Packaging was excellent, maintaining freshness.",
-          "imageProductReview": ["https://example.com/review-image18.jpg"]
+          "imageProductReview": ["/freshcart/assets/image/popularproduct/popularproduct/product4.jpg"]
         },
         {
           "nameUserReview": "Jacob Brown",
@@ -806,7 +827,7 @@
           "passedPurchase": "Verified Purchase",
           "headlineReview": "Excellent Delivery",
           "descriptionReview": "The mixed nuts arrived promptly and in perfect condition. Packaging was well done, protecting the nuts.",
-          "imageProductReview": ["https://example.com/review-image19.jpg"]
+          "imageProductReview": ["/freshcart/assets/image/popularproduct/popularproduct/product4.jpg"]
         },
         {
           "nameUserReview": "Emma White",
@@ -816,7 +837,7 @@
           "passedPurchase": "Verified Purchase",
           "headlineReview": "Favorite Snack",
           "descriptionReview": "The mixed nuts are always fresh and satisfying. Packaging ensures they arrive in top condition.",
-          "imageProductReview": ["https://example.com/review-image20.jpg"]
+          "imageProductReview": ["/freshcart/assets/image/popularproduct/popularproduct/product4.jpg"]
         }
       ]
     },
@@ -824,7 +845,12 @@
     {
       "id": 654321,
       "badgesDiscountProduct": ["New Arrival"],
-      "imagesProduct": ["https://example.com/product-image4.jpg"],
+      "imagesProduct": [
+        "/freshcart/assets/image/popularproduct/popularproduct/product3.jpg",
+        "/freshcart/assets/image/popularproduct/popularproduct/product3.jpg",
+        "/freshcart/assets/image/popularproduct/popularproduct/product3.jpg",
+        "/freshcart/assets/image/popularproduct/popularproduct/product3.jpg"
+      ],
       "nameCategory": "Fruit",
       "nameProduct": "Organic Mangoes",
       "priceProduct": 25000,
@@ -864,7 +890,7 @@
         "NetQuantity": "2 kg",
         "ProductDimensions": "15 x 10 x 8 cm",
         "ASIN": "B08D5XYZ9A",
-        "BestSellersRank": "#345 in Fruit",
+        "BestSellersRank": "#3 in Fruit",
         "DateFirstAvailable": "April 5, 2023",
         "ItemWeight": "500 grams",
         "GenericName": "Mangoes",
@@ -913,7 +939,7 @@
           "passedPurchase": "Verified Purchase",
           "headlineReview": "Delicious Mangoes",
           "descriptionReview": "The mangoes were sweet and juicy. Packaging ensured they arrived in perfect condition.",
-          "imageProductReview": ["https://example.com/review-image16.jpg"]
+          "imageProductReview": ["/freshcart/assets/image/popularproduct/popularproduct/product3.jpg"]
         },
         {
           "nameUserReview": "Sarah White",
@@ -923,7 +949,7 @@
           "passedPurchase": "Verified Purchase",
           "headlineReview": "Flavorful Mangoes",
           "descriptionReview": "The mangoes had a rich flavor and were of excellent quality. Packaging was secure.",
-          "imageProductReview": ["https://example.com/review-image17.jpg"]
+          "imageProductReview": ["/freshcart/assets/image/popularproduct/popularproduct/product3.jpg"]
         },
         {
           "nameUserReview": "Robert Davis",
@@ -933,7 +959,7 @@
           "passedPurchase": "Verified Purchase",
           "headlineReview": "Fresh and Versatile",
           "descriptionReview": "The mangoes were fresh and perfect for various uses. Packaging ensured they stayed fresh.",
-          "imageProductReview": ["https://example.com/review-image18.jpg"]
+          "imageProductReview": ["/freshcart/assets/image/popularproduct/popularproduct/product3.jpg"]
         },
         {
           "nameUserReview": "Jessica Green",
@@ -943,7 +969,7 @@
           "passedPurchase": "Verified Purchase",
           "headlineReview": "Family Favorite",
           "descriptionReview": "The mangoes were sweet and everyone enjoyed them. Packaging was good, ensuring freshness.",
-          "imageProductReview": ["https://example.com/review-image19.jpg"]
+          "imageProductReview": ["/freshcart/assets/image/popularproduct/popularproduct/product3.jpg"]
         },
         {
           "nameUserReview": "Emily Harris",
@@ -953,7 +979,431 @@
           "passedPurchase": "Verified Purchase",
           "headlineReview": "Excellent Quality",
           "descriptionReview": "The mangoes were delicious and exactly as described. Packaging protected them well.",
-          "imageProductReview": ["https://example.com/review-image20.jpg"]
+          "imageProductReview": ["/freshcart/assets/image/popularproduct/popularproduct/product3.jpg"]
+        }
+      ]
+    },
+
+    {
+      "id": 917354,
+      "badgesDiscountProduct": ["Best Seller"],
+      "imagesProduct": [
+        "/freshcart/assets/image/popularproduct/popularproduct/product5.jpg",
+        "/freshcart/assets/image/popularproduct/popularproduct/product5.jpg",
+        "/freshcart/assets/image/popularproduct/popularproduct/product5.jpg",
+        "/freshcart/assets/image/popularproduct/popularproduct/product5.jpg"
+      ],
+      "nameCategory": "Snacks",
+      "nameProduct": "Organic Almonds",
+      "priceProduct": 45000,
+      "codeProduct": "OAL003",
+      "availabilityProduct": true,
+      "typeProduct": "Dry Fruits",
+      "promoProduct": false,
+      "shippingProduct": "Free shipping on orders over 200,000",
+
+      "promoGlobalProduct": [
+        {
+          "discountPrice": 42000,
+          "percentageDiscount": 7
+        }
+      ],
+
+      "ProductDetails": {
+        "BenefitProduct": "High in protein and healthy fats",
+        "descriptionBenefitProduct": "Organic almonds are a great source of protein and healthy fats, perfect for a nutritious snack.",
+        "StorageTips": "Store in an airtight container",
+        "descriptionStorageTips": "Keep almonds in an airtight container in a cool, dry place to maintain freshness.",
+        "Unit": "Unit",
+        "descriptionUnit": "500 grams",
+        "Seller": "Seller",
+        "descriptionSeller": "Nutty Delights",
+        "Disclaimer": "Allergy warning",
+        "descriptionDisclaimer": "This product may contain traces of other nuts."
+      },
+
+      "InformationProduct": {
+        "Weight": "500 grams",
+        "IngredientType": "Organic",
+        "Brand": "Nutty Delights",
+        "ItemPackageQuantity": "1 kg",
+        "Form": "Whole",
+        "Manufacturer": "Nutty Delights Co.",
+        "NetQuantity": "1 kg",
+        "ProductDimensions": "10 x 10 x 15 cm",
+        "ASIN": "B08E6XYZ7B",
+        "BestSellersRank": "#12 in Snacks",
+        "DateFirstAvailable": "January 15, 2023",
+        "ItemWeight": "500 grams",
+        "GenericName": "Almonds",
+        "expiredDate": "December 1, 2024"
+      },
+
+      "ratingsProduct": [
+        {
+          "countRatingProduct": 20,
+          "globalCountRatingProduct": 5000,
+          "ratingBar": 1,
+          "percentageBar": 5
+        },
+        {
+          "countRatingProduct": 40,
+          "globalCountRatingProduct": 5000,
+          "ratingBar": 2,
+          "percentageBar": 15
+        },
+        {
+          "countRatingProduct": 30,
+          "globalCountRatingProduct": 5000,
+          "ratingBar": 3,
+          "percentageBar": 25
+        },
+        {
+          "countRatingProduct": 50,
+          "globalCountRatingProduct": 5000,
+          "ratingBar": 4,
+          "percentageBar": 35
+        },
+        {
+          "countRatingProduct": 60,
+          "globalCountRatingProduct": 5000,
+          "ratingBar": 5,
+          "percentageBar": 20
+        }
+      ],
+
+      "reviewProduct": [
+        {
+          "nameUserReview": "Anna Lee",
+          "dateUserReview": "February 10, 2023",
+          "descriptionUserReview": "The organic almonds are fresh and crunchy, great for a quick snack!",
+          "reviewsProduct": "Highly recommend these organic almonds!",
+          "passedPurchase": "Verified Purchase",
+          "headlineReview": "Fresh and Tasty",
+          "descriptionReview": "The almonds were delivered fresh and crunchy. Packaging ensured they arrived in perfect condition.",
+          "imageProductReview": ["/freshcart/assets/image/popularproduct/popularproduct/product5.jpg"]
+        },
+        {
+          "nameUserReview": "John Smith",
+          "dateUserReview": "March 1, 2023",
+          "descriptionUserReview": "The organic almonds are of excellent quality and very flavorful!",
+          "reviewsProduct": "Love these organic almonds!",
+          "passedPurchase": "Verified Purchase",
+          "headlineReview": "Excellent Quality",
+          "descriptionReview": "The almonds had a rich flavor and were of excellent quality. Packaging was secure.",
+          "imageProductReview": ["/freshcart/assets/image/popularproduct/popularproduct/product5.jpg"]
+        },
+        {
+          "nameUserReview": "Emma Johnson",
+          "dateUserReview": "April 15, 2023",
+          "descriptionUserReview": "The organic almonds were delivered fresh and are perfect for my granola!",
+          "reviewsProduct": "Very satisfied with these organic almonds!",
+          "passedPurchase": "Verified Purchase",
+          "headlineReview": "Fresh and Versatile",
+          "descriptionReview": "The almonds were fresh and perfect for various uses. Packaging ensured they stayed fresh.",
+          "imageProductReview": ["/freshcart/assets/image/popularproduct/popularproduct/product5.jpg"]
+        },
+        {
+          "nameUserReview": "Michael Brown",
+          "dateUserReview": "May 20, 2023",
+          "descriptionUserReview": "The organic almonds were a hit with my family, everyone loved them!",
+          "reviewsProduct": "Great organic almonds!",
+          "passedPurchase": "Verified Purchase",
+          "headlineReview": "Family Favorite",
+          "descriptionReview": "The almonds were tasty and everyone enjoyed them. Packaging was good, ensuring freshness.",
+          "imageProductReview": ["/freshcart/assets/image/popularproduct/popularproduct/product5.jpg"]
+        },
+        {
+          "nameUserReview": "Emily Davis",
+          "dateUserReview": "June 5, 2023",
+          "descriptionUserReview": "The organic almonds were exactly what I expected, delicious and high quality!",
+          "reviewsProduct": "Highly satisfied with these organic almonds!",
+          "passedPurchase": "Verified Purchase",
+          "headlineReview": "High Quality",
+          "descriptionReview": "The almonds were delicious and exactly as described. Packaging protected them well.",
+          "imageProductReview": ["/freshcart/assets/image/popularproduct/popularproduct/product5.jpg"]
+        }
+      ]
+    },
+    {
+      "id": 981652,
+      "badgesDiscountProduct": ["Limited Edition"],
+      "imagesProduct": [
+        "/freshcart/assets/image/popularproduct/popularproduct/product6.jpg",
+        "/freshcart/assets/image/popularproduct/popularproduct/product6.jpg",
+        "/freshcart/assets/image/popularproduct/popularproduct/product6.jpg",
+        "/freshcart/assets/image/popularproduct/popularproduct/product6.jpg"
+      ],
+      "nameCategory": "Dairy",
+      "nameProduct": "Organic Greek Yogurt",
+      "priceProduct": 15000,
+      "codeProduct": "OGY001",
+      "availabilityProduct": true,
+      "typeProduct": "Dairy Product",
+      "promoProduct": true,
+      "shippingProduct": "Free shipping on orders over 100,000",
+
+      "promoGlobalProduct": [
+        {
+          "discountPrice": 14000,
+          "percentageDiscount": 7
+        }
+      ],
+
+      "ProductDetails": {
+        "BenefitProduct": "High in protein and probiotics",
+        "descriptionBenefitProduct": "Organic Greek yogurt is rich in protein and contains probiotics for gut health.",
+        "StorageTips": "Store in a cool, refrigerated place",
+        "descriptionStorageTips": "Keep yogurt refrigerated to maintain its freshness and probiotic benefits.",
+        "Unit": "Unit",
+        "descriptionUnit": "500 grams",
+        "Seller": "Seller",
+        "descriptionSeller": "Dairy Delight Farms",
+        "Disclaimer": "Allergy warning",
+        "descriptionDisclaimer": "This product contains dairy and may have been processed in a facility that also processes nuts."
+      },
+
+      "InformationProduct": {
+        "Weight": "500 grams",
+        "IngredientType": "Organic",
+        "Brand": "Dairy Delight",
+        "ItemPackageQuantity": "1 unit",
+        "Form": "Creamy",
+        "Manufacturer": "Dairy Delight Farms",
+        "NetQuantity": "500 grams",
+        "ProductDimensions": "10 x 10 x 10 cm",
+        "ASIN": "B09D6XYZ1B",
+        "BestSellersRank": "#4 in Dairy",
+        "DateFirstAvailable": "January 5, 2023",
+        "ItemWeight": "500 grams",
+        "GenericName": "Greek Yogurt",
+        "expiredDate": "July 1, 2024"
+      },
+
+      "ratingsProduct": [
+        {
+          "countRatingProduct": 20,
+          "globalCountRatingProduct": 5000,
+          "ratingBar": 1,
+          "percentageBar": 5
+        },
+        {
+          "countRatingProduct": 40,
+          "globalCountRatingProduct": 5000,
+          "ratingBar": 2,
+          "percentageBar": 15
+        },
+        {
+          "countRatingProduct": 50,
+          "globalCountRatingProduct": 5000,
+          "ratingBar": 3,
+          "percentageBar": 20
+        },
+        {
+          "countRatingProduct": 60,
+          "globalCountRatingProduct": 5000,
+          "ratingBar": 4,
+          "percentageBar": 30
+        },
+        {
+          "countRatingProduct": 30,
+          "globalCountRatingProduct": 5000,
+          "ratingBar": 5,
+          "percentageBar": 30
+        }
+      ],
+
+      "reviewProduct": [
+        {
+          "nameUserReview": "Alice Johnson",
+          "dateUserReview": "March 5, 2023",
+          "descriptionUserReview": "The organic Greek yogurt is creamy and delicious, perfect for breakfast!",
+          "reviewsProduct": "I love this Greek yogurt!",
+          "passedPurchase": "Verified Purchase",
+          "headlineReview": "Delicious Yogurt",
+          "descriptionReview": "The yogurt was creamy and had a great taste. Packaging ensured it arrived fresh.",
+          "imageProductReview": ["/freshcart/assets/image/popularproduct/popularproduct/product6.jpg"]
+        },
+        {
+          "nameUserReview": "John Smith",
+          "dateUserReview": "April 10, 2023",
+          "descriptionUserReview": "The organic Greek yogurt is high in protein, great for a post-workout snack!",
+          "reviewsProduct": "Highly recommend this yogurt!",
+          "passedPurchase": "Verified Purchase",
+          "headlineReview": "High Protein Snack",
+          "descriptionReview": "The yogurt was high in protein and perfect for after workouts. Packaging was secure.",
+          "imageProductReview": ["/freshcart/assets/image/popularproduct/popularproduct/product6.jpg"]
+        },
+        {
+          "nameUserReview": "Emily Davis",
+          "dateUserReview": "May 15, 2023",
+          "descriptionUserReview": "The organic Greek yogurt is rich and flavorful, my kids love it!",
+          "reviewsProduct": "A family favorite!",
+          "passedPurchase": "Verified Purchase",
+          "headlineReview": "Rich and Flavorful",
+          "descriptionReview": "The yogurt had a rich flavor and was loved by the whole family. Packaging ensured it stayed fresh.",
+          "imageProductReview": ["/freshcart/assets/image/popularproduct/popularproduct/product6.jpg"]
+        },
+        {
+          "nameUserReview": "Chris Brown",
+          "dateUserReview": "June 20, 2023",
+          "descriptionUserReview": "The organic Greek yogurt is perfect for smoothies, adds a creamy texture!",
+          "reviewsProduct": "Very satisfied with this yogurt!",
+          "passedPurchase": "Verified Purchase",
+          "headlineReview": "Perfect for Smoothies",
+          "descriptionReview": "The yogurt added a creamy texture to my smoothies. Packaging was good and kept it fresh.",
+          "imageProductReview": ["/freshcart/assets/image/popularproduct/popularproduct/product6.jpg"]
+        },
+        {
+          "nameUserReview": "Sophia Martinez",
+          "dateUserReview": "July 25, 2023",
+          "descriptionUserReview": "The organic Greek yogurt is my favorite snack, always fresh and tasty!",
+          "reviewsProduct": "Love this yogurt!",
+          "passedPurchase": "Verified Purchase",
+          "headlineReview": "Favorite Snack",
+          "descriptionReview": "The yogurt was fresh and tasty, my go-to snack. Packaging was secure and maintained freshness.",
+          "imageProductReview": ["/freshcart/assets/image/popularproduct/popularproduct/product6.jpg"]
+        }
+      ]
+    },
+    {
+      "id": 789012,
+      "badgesDiscountProduct": ["Limited Time Offer"],
+      "imagesProduct": [
+        "/freshcart/assets/image/popularproduct/product7.jpg",
+        "/freshcart/assets/image/popularproduct/product7.jpg",
+        "/freshcart/assets/image/popularproduct/product7.jpg",
+        "/freshcart/assets/image/popularproduct/product7.jpg"
+      ],
+      "nameCategory": "Snacks",
+      "nameProduct": "Organic Almond Butter",
+      "priceProduct": 45000,
+      "codeProduct": "OAB003",
+      "availabilityProduct": true,
+      "typeProduct": "Nut Butter",
+      "promoProduct": true,
+      "shippingProduct": "Free shipping on orders over 150,000",
+
+      "promoGlobalProduct": [
+        {
+          "discountPrice": 40000,
+          "percentageDiscount": 11
+        }
+      ],
+
+      "ProductDetails": {
+        "BenefitProduct": "Rich in protein and healthy fats",
+        "descriptionBenefitProduct": "Organic almond butter is a great source of protein and healthy fats, perfect for a nutritious snack.",
+        "StorageTips": "Store in a cool, dry place",
+        "descriptionStorageTips": "Keep almond butter in the refrigerator after opening to maintain freshness.",
+        "Unit": "Unit",
+        "descriptionUnit": "500 grams",
+        "Seller": "Seller",
+        "descriptionSeller": "Healthy Nut Co.",
+        "Disclaimer": "Allergy warning",
+        "descriptionDisclaimer": "This product contains nuts and may have been processed in a facility that handles other tree nuts and peanuts."
+      },
+
+      "InformationProduct": {
+        "Weight": "500 grams",
+        "IngredientType": "Organic",
+        "Brand": "Healthy Nut Co.",
+        "ItemPackageQuantity": "1 jar",
+        "Form": "Butter",
+        "Manufacturer": "Healthy Nut Co.",
+        "NetQuantity": "500 grams",
+        "ProductDimensions": "8 x 8 x 10 cm",
+        "ASIN": "B07X4ZYD8N",
+        "BestSellersRank": "#5 in Nut Butters",
+        "DateFirstAvailable": "January 15, 2023",
+        "ItemWeight": "500 grams",
+        "GenericName": "Almond Butter",
+        "expiredDate": "January 15, 2024"
+      },
+
+      "ratingsProduct": [
+        {
+          "countRatingProduct": 50,
+          "globalCountRatingProduct": 9000,
+          "ratingBar": 1,
+          "percentageBar": 5
+        },
+        {
+          "countRatingProduct": 100,
+          "globalCountRatingProduct": 9000,
+          "ratingBar": 2,
+          "percentageBar": 15
+        },
+        {
+          "countRatingProduct": 200,
+          "globalCountRatingProduct": 9000,
+          "ratingBar": 3,
+          "percentageBar": 30
+        },
+        {
+          "countRatingProduct": 150,
+          "globalCountRatingProduct": 9000,
+          "ratingBar": 4,
+          "percentageBar": 25
+        },
+        {
+          "countRatingProduct": 300,
+          "globalCountRatingProduct": 9000,
+          "ratingBar": 5,
+          "percentageBar": 25
+        }
+      ],
+
+      "reviewProduct": [
+        {
+          "nameUserReview": "John Doe",
+          "dateUserReview": "March 10, 2023",
+          "descriptionUserReview": "The almond butter is creamy and delicious, perfect for my morning toast!",
+          "reviewsProduct": "Highly recommend this almond butter!",
+          "passedPurchase": "Verified Purchase",
+          "headlineReview": "Creamy and Delicious",
+          "descriptionReview": "The almond butter is smooth and flavorful. Packaging was excellent, ensuring no leakage.",
+          "imageProductReview": ["/freshcart/assets/image/popularproduct/product7.jpg"]
+        },
+        {
+          "nameUserReview": "Jane Smith",
+          "dateUserReview": "April 5, 2023",
+          "descriptionUserReview": "I love the texture and taste of this organic almond butter. Great for baking too!",
+          "reviewsProduct": "Love this product!",
+          "passedPurchase": "Verified Purchase",
+          "headlineReview": "Great Texture",
+          "descriptionReview": "The almond butter has a great texture and taste. It works wonderfully in my baking recipes. Packaging was secure.",
+          "imageProductReview": ["/freshcart/assets/image/popularproduct/product7.jpg"]
+        },
+        {
+          "nameUserReview": "Sam Wilson",
+          "dateUserReview": "May 20, 2023",
+          "descriptionUserReview": "This is the best almond butter I've tried. Very fresh and tasty!",
+          "reviewsProduct": "Very satisfied!",
+          "passedPurchase": "Verified Purchase",
+          "headlineReview": "Best Almond Butter",
+          "descriptionReview": "The almond butter is fresh and very tasty. The packaging ensures it stays fresh for a long time.",
+          "imageProductReview": ["/freshcart/assets/image/popularproduct/product7.jpg"]
+        },
+        {
+          "nameUserReview": "Emily Davis",
+          "dateUserReview": "June 15, 2023",
+          "descriptionUserReview": "The almond butter was delivered on time and is of excellent quality. Great for healthy snacks!",
+          "reviewsProduct": "Great product!",
+          "passedPurchase": "Verified Purchase",
+          "headlineReview": "Excellent Quality",
+          "descriptionReview": "The almond butter is of excellent quality. It's perfect for healthy snacks. The packaging was good and protected the product well.",
+          "imageProductReview": ["/freshcart/assets/image/popularproduct/product7.jpg"]
+        },
+        {
+          "nameUserReview": "Chris Brown",
+          "dateUserReview": "July 10, 2023",
+          "descriptionUserReview": "The almond butter is fantastic, with a rich taste and smooth texture. Ideal for spreads and cooking.",
+          "reviewsProduct": "Highly satisfied!",
+          "passedPurchase": "Verified Purchase",
+          "headlineReview": "Rich and Smooth",
+          "descriptionReview": "The almond butter has a rich taste and smooth texture. Ideal for spreads and cooking. The packaging was very secure.",
+          "imageProductReview": ["/freshcart/assets/image/popularproduct/product7.jpg"]
         }
       ]
     }
