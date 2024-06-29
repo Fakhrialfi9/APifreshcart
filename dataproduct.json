@@ -562,9 +562,9 @@
       "id": 234567,
       "badgesDiscountProduct": ["Organik", "Non-GMO"],
       "imagesProduct": [
-        "/freshcart/assets/image/popularproduct/product1.jpg",
-        "/freshcart/assets/image/popularproduct/product1.jpg",
-        "/freshcart/assets/image/popularproduct/product1.jpg",
+        "/freshcart/assets/image/popularproduct/product10.jpg",
+        "/freshcart/assets/image/popularproduct/product2.jpg",
+        "/freshcart/assets/image/popularproduct/product4.jpg",
         "/freshcart/assets/image/popularproduct/product1.jpg"
       ],
       "nameCategory": "Fruits",
@@ -704,10 +704,10 @@
       "id": 345678,
       "badgesDiscountProduct": ["Special Offer"],
       "imagesProduct": [
-        "/freshcart/assets/image/popularproduct/product1.jpg",
-        "/freshcart/assets/image/popularproduct/product1.jpg",
-        "/freshcart/assets/image/popularproduct/product1.jpg",
-        "/freshcart/assets/image/popularproduct/product1.jpg"
+        "/freshcart/assets/image/popularproduct/product2.jpg",
+        "/freshcart/assets/image/popularproduct/product10.jpg",
+        "/freshcart/assets/image/popularproduct/product7.jpg",
+        "/freshcart/assets/image/popularproduct/product4.jpg"
       ],
       "nameCategory": "Snacks",
       "nameProduct": "Organic Mixed Nuts",
