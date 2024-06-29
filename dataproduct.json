@@ -425,10 +425,10 @@
       "id": 345678,
       "badgesDiscountProduct": ["Limited Edition"],
       "imagesProduct": [
-        "/freshcart/assets/image/popularproduct/productsingleimg1.jpg",
-        "/freshcart/assets/image/popularproduct/productsingleimg2.jpg",
-        "/freshcart/assets/image/popularproduct/productsingleimg3.jpg",
-        "/freshcart/assets/image/popularproduct/productsingleimg4.jpg"
+        "/freshcart/assets/image/popularproduct/product1.jpg",
+        "/freshcart/assets/image/popularproduct/product2.jpg",
+        "/freshcart/assets/image/popularproduct/product3.jpg",
+        "/freshcart/assets/image/popularproduct/product4.jpg"
       ],
       "nameCategory": "Snacks",
       "nameProduct": "Gourmet Popcorn Sampler",
@@ -513,7 +513,7 @@
           "passedPurchase": "Verified Purchase",
           "headlineReview": "Delicious Variety",
           "descriptionReview": "The popcorn sampler offers a delightful variety of flavors. Each bag was fresh and packed full of flavor.",
-          "imageProductReview": ["/freshcart/assets/image/popularproduct/productsingleimg4.jpg"]
+          "imageProductReview": ["/freshcart/assets/image/popularproduct/product4.jpg"]
         },
         {
           "nameUserReview": "James Thompson",
@@ -523,7 +523,7 @@
           "passedPurchase": "Verified Purchase",
           "headlineReview": "Perfect for Movie Nights",
           "descriptionReview": "The popcorn sampler exceeded my expectations. Each bag was fresh and had a distinct flavor. Packaging was secure.",
-          "imageProductReview": ["/freshcart/assets/image/popularproduct/productsingleimg4.jpg"]
+          "imageProductReview": ["/freshcart/assets/image/popularproduct/product4.jpg"]
         },
         {
           "nameUserReview": "Sarah Walker",
@@ -533,7 +533,7 @@
           "passedPurchase": "Verified Purchase",
           "headlineReview": "Family Favorite",
           "descriptionReview": "The popcorn sampler is a family favorite. Each bag had a unique flavor and was fresh upon delivery.",
-          "imageProductReview": ["/freshcart/assets/image/popularproduct/productsingleimg4.jpg"]
+          "imageProductReview": ["/freshcart/assets/image/popularproduct/product4.jpg"]
         },
         {
           "nameUserReview": "David Harris",
@@ -543,7 +543,7 @@
           "passedPurchase": "Verified Purchase",
           "headlineReview": "Great for Gatherings",
           "descriptionReview": "The popcorn sampler arrived promptly and was a hit at our gathering. Packaging ensured freshness.",
-          "imageProductReview": ["/freshcart/assets/image/popularproduct/productsingleimg4.jpg"]
+          "imageProductReview": ["/freshcart/assets/image/popularproduct/product4.jpg"]
         },
         {
           "nameUserReview": "Rachel Green",
@@ -553,7 +553,7 @@
           "passedPurchase": "Verified Purchase",
           "headlineReview": "New Favorite Snack",
           "descriptionReview": "The popcorn sampler is now my go-to snack. Each flavor was delicious and packed with freshness.",
-          "imageProductReview": ["/freshcart/assets/image/popularproduct/productsingleimg4.jpg"]
+          "imageProductReview": ["/freshcart/assets/image/popularproduct/product4.jpg"]
         }
       ]
     },
@@ -655,7 +655,7 @@
           "passedPurchase": "Verified Purchase",
           "headlineReview": "Delicious Apples",
           "descriptionReview": "The apples are fresh and delicious. Packaging was good, ensuring they arrived in perfect condition.",
-          "imageProductReview": ["/freshcart/assets/image/popularproduct/productsingleimg4.jpg"]
+          "imageProductReview": ["/freshcart/assets/image/popularproduct/product4.jpg"]
         },
         {
           "nameUserReview": "David Wilson",
@@ -665,7 +665,7 @@
           "passedPurchase": "Verified Purchase",
           "headlineReview": "Versatile Apples",
           "descriptionReview": "The apples are perfect for snacking and cooking. Packaging ensures they stay fresh.",
-          "imageProductReview": ["/freshcart/assets/image/popularproduct/productsingleimg4.jpg"]
+          "imageProductReview": ["/freshcart/assets/image/popularproduct/product4.jpg"]
         },
         {
           "nameUserReview": "Emily Roberts",
@@ -675,7 +675,7 @@
           "passedPurchase": "Verified Purchase",
           "headlineReview": "Fresh and Flavorful",
           "descriptionReview": "The apples are consistently fresh and flavorful. Packaging was secure, maintaining their quality.",
-          "imageProductReview": ["/freshcart/assets/image/popularproduct/productsingleimg1.jpg"]
+          "imageProductReview": ["/freshcart/assets/image/popularproduct/product1.jpg"]
         },
         {
           "nameUserReview": "James Thompson",
@@ -685,7 +685,7 @@
           "passedPurchase": "Verified Purchase",
           "headlineReview": "Excellent Delivery",
           "descriptionReview": "The apples arrived promptly and in great condition. Packaging was well done.",
-          "imageProductReview": ["/freshcart/assets/image/popularproduct/productsingleimg2.jpg"]
+          "imageProductReview": ["/freshcart/assets/image/popularproduct/product2.jpg"]
         },
         {
           "nameUserReview": "Emma Davis",
@@ -695,7 +695,7 @@
           "passedPurchase": "Verified Purchase",
           "headlineReview": "Favorite Apples",
           "descriptionReview": "The apples are always fresh and juicy, perfect for any occasion. Packaging ensures they arrive in top condition.",
-          "imageProductReview": ["/freshcart/assets/image/popularproduct/productsingleimg3.jpg"]
+          "imageProductReview": ["/freshcart/assets/image/popularproduct/product3.jpg"]
         }
       ]
     },
@@ -704,10 +704,10 @@
       "id": 345678,
       "badgesDiscountProduct": ["Special Offer"],
       "imagesProduct": [
-        "/freshcart/assets/image/popularproduct/popularproduct/product4.jpg",
-        "/freshcart/assets/image/popularproduct/popularproduct/product4.jpg",
-        "/freshcart/assets/image/popularproduct/popularproduct/product4.jpg",
-        "/freshcart/assets/image/popularproduct/popularproduct/product4.jpg"
+        "/freshcart/assets/image/popularproduct/product1.jpg",
+        "/freshcart/assets/image/popularproduct/product1.jpg",
+        "/freshcart/assets/image/popularproduct/product1.jpg",
+        "/freshcart/assets/image/popularproduct/product1.jpg"
       ],
       "nameCategory": "Snacks",
       "nameProduct": "Organic Mixed Nuts",
@@ -797,7 +797,7 @@
           "passedPurchase": "Verified Purchase",
           "headlineReview": "Delicious Snack",
           "descriptionReview": "The mixed nuts are delicious and crunchy, perfect for snacking anytime. Packaging was secure, ensuring freshness.",
-          "imageProductReview": ["/freshcart/assets/image/popularproduct/popularproduct/product4.jpg"]
+          "imageProductReview": ["/freshcart/assets/image/popularproduct/product4.jpg"]
         },
         {
           "nameUserReview": "James Wilson",
@@ -807,7 +807,7 @@
           "passedPurchase": "Verified Purchase",
           "headlineReview": "Healthy and Tasty",
           "descriptionReview": "The mixed nuts are a healthy and tasty snack choice. Packaging was good, keeping the nuts fresh.",
-          "imageProductReview": ["/freshcart/assets/image/popularproduct/popularproduct/product4.jpg"]
+          "imageProductReview": ["/freshcart/assets/image/popularproduct/product4.jpg"]
         },
         {
           "nameUserReview": "Sarah Davis",
@@ -817,7 +817,7 @@
           "passedPurchase": "Verified Purchase",
           "headlineReview": "Flavorful Nuts",
           "descriptionReview": "The mixed nuts were flavorful and exceeded my expectations. Packaging was excellent, maintaining freshness.",
-          "imageProductReview": ["/freshcart/assets/image/popularproduct/popularproduct/product4.jpg"]
+          "imageProductReview": ["/freshcart/assets/image/popularproduct/product4.jpg"]
         },
         {
           "nameUserReview": "Jacob Brown",
@@ -827,7 +827,7 @@
           "passedPurchase": "Verified Purchase",
           "headlineReview": "Excellent Delivery",
           "descriptionReview": "The mixed nuts arrived promptly and in perfect condition. Packaging was well done, protecting the nuts.",
-          "imageProductReview": ["/freshcart/assets/image/popularproduct/popularproduct/product4.jpg"]
+          "imageProductReview": ["/freshcart/assets/image/popularproduct/product4.jpg"]
         },
         {
           "nameUserReview": "Emma White",
@@ -837,7 +837,7 @@
           "passedPurchase": "Verified Purchase",
           "headlineReview": "Favorite Snack",
           "descriptionReview": "The mixed nuts are always fresh and satisfying. Packaging ensures they arrive in top condition.",
-          "imageProductReview": ["/freshcart/assets/image/popularproduct/popularproduct/product4.jpg"]
+          "imageProductReview": ["/freshcart/assets/image/popularproduct/product4.jpg"]
         }
       ]
     },
@@ -846,10 +846,10 @@
       "id": 654321,
       "badgesDiscountProduct": ["New Arrival"],
       "imagesProduct": [
-        "/freshcart/assets/image/popularproduct/popularproduct/product3.jpg",
-        "/freshcart/assets/image/popularproduct/popularproduct/product3.jpg",
-        "/freshcart/assets/image/popularproduct/popularproduct/product3.jpg",
-        "/freshcart/assets/image/popularproduct/popularproduct/product3.jpg"
+        "/freshcart/assets/image/popularproduct/product3.jpg",
+        "/freshcart/assets/image/popularproduct/product3.jpg",
+        "/freshcart/assets/image/popularproduct/product3.jpg",
+        "/freshcart/assets/image/popularproduct/product3.jpg"
       ],
       "nameCategory": "Fruit",
       "nameProduct": "Organic Mangoes",
@@ -939,7 +939,7 @@
           "passedPurchase": "Verified Purchase",
           "headlineReview": "Delicious Mangoes",
           "descriptionReview": "The mangoes were sweet and juicy. Packaging ensured they arrived in perfect condition.",
-          "imageProductReview": ["/freshcart/assets/image/popularproduct/popularproduct/product3.jpg"]
+          "imageProductReview": ["/freshcart/assets/image/popularproduct/product3.jpg"]
         },
         {
           "nameUserReview": "Sarah White",
@@ -949,7 +949,7 @@
           "passedPurchase": "Verified Purchase",
           "headlineReview": "Flavorful Mangoes",
           "descriptionReview": "The mangoes had a rich flavor and were of excellent quality. Packaging was secure.",
-          "imageProductReview": ["/freshcart/assets/image/popularproduct/popularproduct/product3.jpg"]
+          "imageProductReview": ["/freshcart/assets/image/popularproduct/product3.jpg"]
         },
         {
           "nameUserReview": "Robert Davis",
@@ -959,7 +959,7 @@
           "passedPurchase": "Verified Purchase",
           "headlineReview": "Fresh and Versatile",
           "descriptionReview": "The mangoes were fresh and perfect for various uses. Packaging ensured they stayed fresh.",
-          "imageProductReview": ["/freshcart/assets/image/popularproduct/popularproduct/product3.jpg"]
+          "imageProductReview": ["/freshcart/assets/image/popularproduct/product3.jpg"]
         },
         {
           "nameUserReview": "Jessica Green",
@@ -969,7 +969,7 @@
           "passedPurchase": "Verified Purchase",
           "headlineReview": "Family Favorite",
           "descriptionReview": "The mangoes were sweet and everyone enjoyed them. Packaging was good, ensuring freshness.",
-          "imageProductReview": ["/freshcart/assets/image/popularproduct/popularproduct/product3.jpg"]
+          "imageProductReview": ["/freshcart/assets/image/popularproduct/product3.jpg"]
         },
         {
           "nameUserReview": "Emily Harris",
@@ -979,7 +979,7 @@
           "passedPurchase": "Verified Purchase",
           "headlineReview": "Excellent Quality",
           "descriptionReview": "The mangoes were delicious and exactly as described. Packaging protected them well.",
-          "imageProductReview": ["/freshcart/assets/image/popularproduct/popularproduct/product3.jpg"]
+          "imageProductReview": ["/freshcart/assets/image/popularproduct/product3.jpg"]
         }
       ]
     },
@@ -988,10 +988,10 @@
       "id": 917354,
       "badgesDiscountProduct": ["Best Seller"],
       "imagesProduct": [
-        "/freshcart/assets/image/popularproduct/popularproduct/product5.jpg",
-        "/freshcart/assets/image/popularproduct/popularproduct/product5.jpg",
-        "/freshcart/assets/image/popularproduct/popularproduct/product5.jpg",
-        "/freshcart/assets/image/popularproduct/popularproduct/product5.jpg"
+        "/freshcart/assets/image/popularproduct/product5.jpg",
+        "/freshcart/assets/image/popularproduct/product5.jpg",
+        "/freshcart/assets/image/popularproduct/product5.jpg",
+        "/freshcart/assets/image/popularproduct/product5.jpg"
       ],
       "nameCategory": "Snacks",
       "nameProduct": "Organic Almonds",
@@ -1081,7 +1081,7 @@
           "passedPurchase": "Verified Purchase",
           "headlineReview": "Fresh and Tasty",
           "descriptionReview": "The almonds were delivered fresh and crunchy. Packaging ensured they arrived in perfect condition.",
-          "imageProductReview": ["/freshcart/assets/image/popularproduct/popularproduct/product5.jpg"]
+          "imageProductReview": ["/freshcart/assets/image/popularproduct/product5.jpg"]
         },
         {
           "nameUserReview": "John Smith",
@@ -1091,7 +1091,7 @@
           "passedPurchase": "Verified Purchase",
           "headlineReview": "Excellent Quality",
           "descriptionReview": "The almonds had a rich flavor and were of excellent quality. Packaging was secure.",
-          "imageProductReview": ["/freshcart/assets/image/popularproduct/popularproduct/product5.jpg"]
+          "imageProductReview": ["/freshcart/assets/image/popularproduct/product5.jpg"]
         },
         {
           "nameUserReview": "Emma Johnson",
@@ -1101,7 +1101,7 @@
           "passedPurchase": "Verified Purchase",
           "headlineReview": "Fresh and Versatile",
           "descriptionReview": "The almonds were fresh and perfect for various uses. Packaging ensured they stayed fresh.",
-          "imageProductReview": ["/freshcart/assets/image/popularproduct/popularproduct/product5.jpg"]
+          "imageProductReview": ["/freshcart/assets/image/popularproduct/product5.jpg"]
         },
         {
           "nameUserReview": "Michael Brown",
@@ -1111,7 +1111,7 @@
           "passedPurchase": "Verified Purchase",
           "headlineReview": "Family Favorite",
           "descriptionReview": "The almonds were tasty and everyone enjoyed them. Packaging was good, ensuring freshness.",
-          "imageProductReview": ["/freshcart/assets/image/popularproduct/popularproduct/product5.jpg"]
+          "imageProductReview": ["/freshcart/assets/image/popularproduct/product5.jpg"]
         },
         {
           "nameUserReview": "Emily Davis",
@@ -1121,7 +1121,7 @@
           "passedPurchase": "Verified Purchase",
           "headlineReview": "High Quality",
           "descriptionReview": "The almonds were delicious and exactly as described. Packaging protected them well.",
-          "imageProductReview": ["/freshcart/assets/image/popularproduct/popularproduct/product5.jpg"]
+          "imageProductReview": ["/freshcart/assets/image/popularproduct/product5.jpg"]
         }
       ]
     },
@@ -1129,10 +1129,10 @@
       "id": 981652,
       "badgesDiscountProduct": ["Limited Edition"],
       "imagesProduct": [
-        "/freshcart/assets/image/popularproduct/popularproduct/product6.jpg",
-        "/freshcart/assets/image/popularproduct/popularproduct/product6.jpg",
-        "/freshcart/assets/image/popularproduct/popularproduct/product6.jpg",
-        "/freshcart/assets/image/popularproduct/popularproduct/product6.jpg"
+        "/freshcart/assets/image/popularproduct/product6.jpg",
+        "/freshcart/assets/image/popularproduct/product6.jpg",
+        "/freshcart/assets/image/popularproduct/product6.jpg",
+        "/freshcart/assets/image/popularproduct/product6.jpg"
       ],
       "nameCategory": "Dairy",
       "nameProduct": "Organic Greek Yogurt",
@@ -1222,7 +1222,7 @@
           "passedPurchase": "Verified Purchase",
           "headlineReview": "Delicious Yogurt",
           "descriptionReview": "The yogurt was creamy and had a great taste. Packaging ensured it arrived fresh.",
-          "imageProductReview": ["/freshcart/assets/image/popularproduct/popularproduct/product6.jpg"]
+          "imageProductReview": ["/freshcart/assets/image/popularproduct/product6.jpg"]
         },
         {
           "nameUserReview": "John Smith",
@@ -1232,7 +1232,7 @@
           "passedPurchase": "Verified Purchase",
           "headlineReview": "High Protein Snack",
           "descriptionReview": "The yogurt was high in protein and perfect for after workouts. Packaging was secure.",
-          "imageProductReview": ["/freshcart/assets/image/popularproduct/popularproduct/product6.jpg"]
+          "imageProductReview": ["/freshcart/assets/image/popularproduct/product6.jpg"]
         },
         {
           "nameUserReview": "Emily Davis",
@@ -1242,7 +1242,7 @@
           "passedPurchase": "Verified Purchase",
           "headlineReview": "Rich and Flavorful",
           "descriptionReview": "The yogurt had a rich flavor and was loved by the whole family. Packaging ensured it stayed fresh.",
-          "imageProductReview": ["/freshcart/assets/image/popularproduct/popularproduct/product6.jpg"]
+          "imageProductReview": ["/freshcart/assets/image/popularproduct/product6.jpg"]
         },
         {
           "nameUserReview": "Chris Brown",
@@ -1252,7 +1252,7 @@
           "passedPurchase": "Verified Purchase",
           "headlineReview": "Perfect for Smoothies",
           "descriptionReview": "The yogurt added a creamy texture to my smoothies. Packaging was good and kept it fresh.",
-          "imageProductReview": ["/freshcart/assets/image/popularproduct/popularproduct/product6.jpg"]
+          "imageProductReview": ["/freshcart/assets/image/popularproduct/product6.jpg"]
         },
         {
           "nameUserReview": "Sophia Martinez",
@@ -1262,7 +1262,7 @@
           "passedPurchase": "Verified Purchase",
           "headlineReview": "Favorite Snack",
           "descriptionReview": "The yogurt was fresh and tasty, my go-to snack. Packaging was secure and maintained freshness.",
-          "imageProductReview": ["/freshcart/assets/image/popularproduct/popularproduct/product6.jpg"]
+          "imageProductReview": ["/freshcart/assets/image/popularproduct/product6.jpg"]
         }
       ]
     },
