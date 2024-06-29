@@ -57,25 +57,25 @@
 
       "ratingsProduct": [
         {
-          "countRatingProduct": 35,
+          "countRatingProduct": 3.5,
           "globalCountRatingProduct": 7500,
           "ratingBar": 1,
           "percentageBar": 15
         },
         {
-          "countRatingProduct": 45,
+          "countRatingProduct": 4.5,
           "globalCountRatingProduct": 7500,
           "ratingBar": 2,
           "percentageBar": 30
         },
         {
-          "countRatingProduct": 20,
+          "countRatingProduct": 5,
           "globalCountRatingProduct": 7500,
           "ratingBar": 3,
           "percentageBar": 10
         },
         {
-          "countRatingProduct": 15,
+          "countRatingProduct": 4.5,
           "globalCountRatingProduct": 7500,
           "ratingBar": 4,
           "percentageBar": 20
@@ -160,7 +160,12 @@
       "promoProduct": false,
       "shippingProduct": "Free shipping on orders over 100,000",
 
-      "promoGlobalProduct": [],
+      "promoGlobalProduct": [
+        {
+          "discountPrice": 13000,
+          "percentageDiscount": 12
+        }
+      ],
 
       "ProductDetails": {
         "BenefitProduct": "Rich in fiber and vitamins",
@@ -439,7 +444,12 @@
       "promoProduct": false,
       "shippingProduct": "Free shipping on orders over 120,000",
 
-      "promoGlobalProduct": [],
+      "promoGlobalProduct": [
+        {
+          "discountPrice": 19000,
+          "percentageDiscount": 12
+        }
+      ],
 
       "ProductDetails": {
         "BenefitProduct": "Variety of flavors",
