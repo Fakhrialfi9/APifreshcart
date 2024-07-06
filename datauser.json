@@ -1,0 +1,47 @@
+{
+  "user": [
+    {
+      "id": 1,
+      "firstName": "",
+      "lastName": "",
+      "email": "",
+      "password": "",
+      "confirmPassword": "",
+      "phoneNumber": "",
+      "address": "",
+      "city": "",
+      "state": "",
+      "country": "",
+      "postalCode": "",
+      "avatarUser": "",
+      "username": "",
+      "bio": "",
+      "securityQuestions": [
+        {
+          "question": "What is your mother's maiden name?",
+          "answer": ""
+        },
+        {
+          "question": "What city were you born in?",
+          "answer": ""
+        },
+        {
+          "question": "What is your favorite book?",
+          "answer": ""
+        },
+        {
+          "question": "What was the name of your first pet?",
+          "answer": ""
+        },
+        {
+          "question": "What is the name of your favorite teacher?",
+          "answer": ""
+        },
+        {
+          "question": "In what city did you meet your spouse/partner?",
+          "answer": ""
+        }
+      ]
+    }
+  ]
+}
